@@ -1,6 +1,6 @@
 // 1. Średnią wagę i wzrost osób w bazie z podziałem na płeć (tzn. osobno mężczyzn, osobno kobiet);
 //A
-var c = db.people.aggregate([
+const c = db.people.aggregate([
     {
         $set: {
             "height": {$toDecimal: "$height"}
@@ -33,7 +33,7 @@ var c = db.people.aggregate([
             }
         }
     }
-])
+]);
 
-printjson(c.toArray())
+printjson(c.toArray());
 

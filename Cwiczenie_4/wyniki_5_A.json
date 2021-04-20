@@ -236,8 +236,8 @@
 	},
 	{
 		"_id" : "PEN",
-		"money_sum" : NumberDecimal("23227.35"),
-		"money_avg" : NumberDecimal("4645.47")
+		"money_sum" : NumberDecimal("18644.94"),
+		"money_avg" : NumberDecimal("4661.235")
 	},
 	{
 		"_id" : "PHP",
@@ -306,8 +306,8 @@
 	},
 	{
 		"_id" : "USD",
-		"money_sum" : NumberDecimal("80650.70"),
-		"money_avg" : NumberDecimal("5040.66875")
+		"money_sum" : NumberDecimal("74680.98"),
+		"money_avg" : NumberDecimal("4978.732")
 	},
 	{
 		"_id" : "UZS",

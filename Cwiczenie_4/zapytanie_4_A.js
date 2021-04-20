@@ -1,6 +1,6 @@
 // 4. Średnie, minimalne i maksymalne BMI (waga/wzrost^2) dla osób w bazie, w podziale na narodowości;
 //A
-var c = db.people.aggregate([
+const c = db.people.aggregate([
     {
       $project: {
           height: 1,
@@ -35,29 +35,28 @@ var c = db.people.aggregate([
     {
         $group: {
             _id: "$nationality",
+            BMI_min: {
+                $min: "$BMI"
+            },
             BMI_avg: {
                 $avg: "$BMI"
             },
             BMI_max: {
                 $max: "$BMI"
-            },
-            BMI_min: {
-                $min: "$BMI"
             }
         }
     },
     {
         $set:
         {
-            nationality: "$_id",
+            BMI_min: {
+                $round: ["$BMI_min", 2]
+            },
             BMI_avg: {
                 $round: ["$BMI_avg", 2]
             },
             BMI_max: {
                 $round: ["$BMI_max", 2]
-            },
-            BMI_min: {
-                $round: ["$BMI_min", 2]
             }
         }
     },
@@ -66,7 +65,7 @@ var c = db.people.aggregate([
             "_id": 1
         }
     }
-])
+]);
 
-printjson(c.toArray())
+printjson(c.toArray());
 

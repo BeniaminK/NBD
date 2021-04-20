@@ -1,1409 +1,1208 @@
 [
 	{
 		"_id" : "Afghanistan",
-		"BMI_avg" : 24.84,
-		"BMI_max" : 31.68,
-		"BMI_min" : 17.1,
-		"nationality" : "Afghanistan"
+		"BMI_min" : 18.43,
+		"BMI_avg" : 25.05,
+		"BMI_max" : 31.68
 	},
 	{
 		"_id" : "Aland Islands",
-		"BMI_avg" : 28.16,
-		"BMI_max" : 33.93,
 		"BMI_min" : 22.42,
-		"nationality" : "Aland Islands"
+		"BMI_avg" : 28.16,
+		"BMI_max" : 33.93
 	},
 	{
 		"_id" : "Albania",
-		"BMI_avg" : 24.71,
-		"BMI_max" : 31.99,
 		"BMI_min" : 19,
-		"nationality" : "Albania"
+		"BMI_avg" : 24.71,
+		"BMI_max" : 31.99
 	},
 	{
 		"_id" : "Algeria",
-		"BMI_avg" : 28.59,
-		"BMI_max" : 28.59,
 		"BMI_min" : 28.59,
-		"nationality" : "Algeria"
+		"BMI_avg" : 28.59,
+		"BMI_max" : 28.59
 	},
 	{
 		"_id" : "American Samoa",
-		"BMI_avg" : 22.4,
-		"BMI_max" : 22.4,
 		"BMI_min" : 22.4,
-		"nationality" : "American Samoa"
+		"BMI_avg" : 22.4,
+		"BMI_max" : 22.4
 	},
 	{
 		"_id" : "Andorra",
-		"BMI_avg" : 28.17,
-		"BMI_max" : 30.65,
 		"BMI_min" : 25.69,
-		"nationality" : "Andorra"
+		"BMI_avg" : 28.17,
+		"BMI_max" : 30.65
 	},
 	{
 		"_id" : "Angola",
-		"BMI_avg" : 24.18,
-		"BMI_max" : 31.67,
 		"BMI_min" : 18.36,
-		"nationality" : "Angola"
+		"BMI_avg" : 24.18,
+		"BMI_max" : 31.67
 	},
 	{
 		"_id" : "Argentina",
-		"BMI_avg" : 25.63,
-		"BMI_max" : 34.13,
 		"BMI_min" : 17.59,
-		"nationality" : "Argentina"
+		"BMI_avg" : 25.68,
+		"BMI_max" : 34.13
 	},
 	{
 		"_id" : "Armenia",
-		"BMI_avg" : 24.94,
-		"BMI_max" : 31.67,
 		"BMI_min" : 19.17,
-		"nationality" : "Armenia"
+		"BMI_avg" : 24.94,
+		"BMI_max" : 31.67
 	},
 	{
 		"_id" : "Australia",
-		"BMI_avg" : 25.2,
-		"BMI_max" : 29.82,
 		"BMI_min" : 20.65,
-		"nationality" : "Australia"
+		"BMI_avg" : 25.2,
+		"BMI_max" : 29.82
 	},
 	{
 		"_id" : "Austria",
-		"BMI_avg" : 27.94,
-		"BMI_max" : 37.26,
 		"BMI_min" : 23.02,
-		"nationality" : "Austria"
+		"BMI_avg" : 27.94,
+		"BMI_max" : 37.26
 	},
 	{
 		"_id" : "Azerbaijan",
-		"BMI_avg" : 25.95,
-		"BMI_max" : 36.93,
 		"BMI_min" : 18.77,
-		"nationality" : "Azerbaijan"
+		"BMI_avg" : 25.95,
+		"BMI_max" : 36.93
 	},
 	{
 		"_id" : "Bahamas",
-		"BMI_avg" : 24.99,
-		"BMI_max" : 26.6,
 		"BMI_min" : 22.24,
-		"nationality" : "Bahamas"
+		"BMI_avg" : 24.99,
+		"BMI_max" : 26.6
 	},
 	{
 		"_id" : "Bangladesh",
-		"BMI_avg" : 26.69,
-		"BMI_max" : 34.06,
 		"BMI_min" : 19.81,
-		"nationality" : "Bangladesh"
+		"BMI_avg" : 26.69,
+		"BMI_max" : 34.06
 	},
 	{
 		"_id" : "Barbados",
-		"BMI_avg" : 21.34,
-		"BMI_max" : 21.34,
 		"BMI_min" : 21.34,
-		"nationality" : "Barbados"
+		"BMI_avg" : 21.34,
+		"BMI_max" : 21.34
 	},
 	{
 		"_id" : "Belarus",
-		"BMI_avg" : 25.47,
-		"BMI_max" : 33.94,
 		"BMI_min" : 17.86,
-		"nationality" : "Belarus"
+		"BMI_avg" : 25.47,
+		"BMI_max" : 33.94
 	},
 	{
 		"_id" : "Belgium",
-		"BMI_avg" : 26.14,
-		"BMI_max" : 29,
 		"BMI_min" : 20.05,
-		"nationality" : "Belgium"
+		"BMI_avg" : 26.14,
+		"BMI_max" : 29
 	},
 	{
 		"_id" : "Belize",
-		"BMI_avg" : 23.22,
-		"BMI_max" : 26.22,
 		"BMI_min" : 18.42,
-		"nationality" : "Belize"
+		"BMI_avg" : 23.22,
+		"BMI_max" : 26.22
 	},
 	{
 		"_id" : "Benin",
-		"BMI_avg" : 25.78,
-		"BMI_max" : 30.3,
 		"BMI_min" : 21.33,
-		"nationality" : "Benin"
+		"BMI_avg" : 25.78,
+		"BMI_max" : 30.3
 	},
 	{
 		"_id" : "Bhutan",
-		"BMI_avg" : 24.06,
-		"BMI_max" : 31.36,
 		"BMI_min" : 19.42,
-		"nationality" : "Bhutan"
+		"BMI_avg" : 24.06,
+		"BMI_max" : 31.36
 	},
 	{
 		"_id" : "Bolivia",
-		"BMI_avg" : 25.29,
-		"BMI_max" : 32.05,
 		"BMI_min" : 20.46,
-		"nationality" : "Bolivia"
+		"BMI_avg" : 25.29,
+		"BMI_max" : 32.05
 	},
 	{
 		"_id" : "Bosnia and Herzegovina",
-		"BMI_avg" : 25.42,
-		"BMI_max" : 35.97,
 		"BMI_min" : 16.93,
-		"nationality" : "Bosnia and Herzegovina"
+		"BMI_avg" : 25.42,
+		"BMI_max" : 35.97
 	},
 	{
 		"_id" : "Botswana",
-		"BMI_avg" : 24.08,
-		"BMI_max" : 27.18,
-		"BMI_min" : 17.21,
-		"nationality" : "Botswana"
+		"BMI_min" : 21.66,
+		"BMI_avg" : 24.65,
+		"BMI_max" : 27.18
 	},
 	{
 		"_id" : "Brazil",
-		"BMI_avg" : 25.55,
-		"BMI_max" : 40.63,
 		"BMI_min" : 17.46,
-		"nationality" : "Brazil"
+		"BMI_avg" : 25.62,
+		"BMI_max" : 40.63
 	},
 	{
 		"_id" : "Brunei",
-		"BMI_avg" : 25.03,
-		"BMI_max" : 25.03,
 		"BMI_min" : 25.03,
-		"nationality" : "Brunei"
+		"BMI_avg" : 25.03,
+		"BMI_max" : 25.03
 	},
 	{
 		"_id" : "Bulgaria",
-		"BMI_avg" : 24.31,
-		"BMI_max" : 32.6,
 		"BMI_min" : 18.42,
-		"nationality" : "Bulgaria"
+		"BMI_avg" : 24.58,
+		"BMI_max" : 32.6
 	},
 	{
 		"_id" : "Burkina Faso",
-		"BMI_avg" : 27.58,
-		"BMI_max" : 39.85,
 		"BMI_min" : 19.87,
-		"nationality" : "Burkina Faso"
+		"BMI_avg" : 27.58,
+		"BMI_max" : 39.85
 	},
 	{
 		"_id" : "Burundi",
-		"BMI_avg" : 25.65,
-		"BMI_max" : 28.5,
 		"BMI_min" : 23.42,
-		"nationality" : "Burundi"
+		"BMI_avg" : 25.65,
+		"BMI_max" : 28.5
 	},
 	{
 		"_id" : "Cambodia",
-		"BMI_avg" : 25.98,
-		"BMI_max" : 33.33,
-		"BMI_min" : 17.56,
-		"nationality" : "Cambodia"
+		"BMI_min" : 21.87,
+		"BMI_avg" : 27.38,
+		"BMI_max" : 33.33
 	},
 	{
 		"_id" : "Cameroon",
-		"BMI_avg" : 24.64,
-		"BMI_max" : 33.17,
 		"BMI_min" : 19.68,
-		"nationality" : "Cameroon"
+		"BMI_avg" : 24.64,
+		"BMI_max" : 33.17
 	},
 	{
 		"_id" : "Canada",
-		"BMI_avg" : 25.36,
-		"BMI_max" : 33.61,
-		"BMI_min" : 16.41,
-		"nationality" : "Canada"
+		"BMI_min" : 18.34,
+		"BMI_avg" : 25.52,
+		"BMI_max" : 33.61
 	},
 	{
 		"_id" : "Cape Verde",
-		"BMI_avg" : 25.33,
-		"BMI_max" : 35.05,
 		"BMI_min" : 19.21,
-		"nationality" : "Cape Verde"
+		"BMI_avg" : 25.33,
+		"BMI_max" : 35.05
 	},
 	{
 		"_id" : "Central African Republic",
-		"BMI_avg" : 23.92,
-		"BMI_max" : 28.95,
 		"BMI_min" : 19.61,
-		"nationality" : "Central African Republic"
+		"BMI_avg" : 23.92,
+		"BMI_max" : 28.95
 	},
 	{
 		"_id" : "Chad",
-		"BMI_avg" : 25.91,
-		"BMI_max" : 32.15,
 		"BMI_min" : 19.38,
-		"nationality" : "Chad"
+		"BMI_avg" : 25.91,
+		"BMI_max" : 32.15
 	},
 	{
 		"_id" : "Chile",
-		"BMI_avg" : 24.87,
-		"BMI_max" : 29.8,
 		"BMI_min" : 16.95,
-		"nationality" : "Chile"
+		"BMI_avg" : 24.87,
+		"BMI_max" : 29.8
 	},
 	{
 		"_id" : "China",
-		"BMI_avg" : 25.5,
-		"BMI_max" : 42.36,
 		"BMI_min" : 15.46,
-		"nationality" : "China"
+		"BMI_avg" : 25.58,
+		"BMI_max" : 42.36
 	},
 	{
 		"_id" : "Colombia",
-		"BMI_avg" : 25.69,
-		"BMI_max" : 35.4,
-		"BMI_min" : 17.77,
-		"nationality" : "Colombia"
+		"BMI_min" : 18.55,
+		"BMI_avg" : 25.78,
+		"BMI_max" : 35.4
 	},
 	{
 		"_id" : "Comoros",
-		"BMI_avg" : 25.44,
-		"BMI_max" : 33.86,
 		"BMI_min" : 19.74,
-		"nationality" : "Comoros"
+		"BMI_avg" : 25.44,
+		"BMI_max" : 33.86
 	},
 	{
 		"_id" : "Costa Rica",
-		"BMI_avg" : 24.65,
-		"BMI_max" : 28.9,
 		"BMI_min" : 20.49,
-		"nationality" : "Costa Rica"
+		"BMI_avg" : 24.65,
+		"BMI_max" : 28.9
 	},
 	{
 		"_id" : "Croatia",
-		"BMI_avg" : 24.86,
-		"BMI_max" : 38.54,
 		"BMI_min" : 18.79,
-		"nationality" : "Croatia"
+		"BMI_avg" : 24.86,
+		"BMI_max" : 38.54
 	},
 	{
 		"_id" : "Cuba",
-		"BMI_avg" : 26.38,
-		"BMI_max" : 35.42,
 		"BMI_min" : 18.49,
-		"nationality" : "Cuba"
+		"BMI_avg" : 26.38,
+		"BMI_max" : 35.42
 	},
 	{
 		"_id" : "Cyprus",
-		"BMI_avg" : 25.19,
-		"BMI_max" : 29.83,
 		"BMI_min" : 22.2,
-		"nationality" : "Cyprus"
+		"BMI_avg" : 25.19,
+		"BMI_max" : 29.83
 	},
 	{
 		"_id" : "Czech Republic",
-		"BMI_avg" : 25.18,
-		"BMI_max" : 33.15,
-		"BMI_min" : 15.67,
-		"nationality" : "Czech Republic"
+		"BMI_min" : 18.56,
+		"BMI_avg" : 25.23,
+		"BMI_max" : 33.15
 	},
 	{
 		"_id" : "Democratic Republic of the Congo",
-		"BMI_avg" : 26.53,
-		"BMI_max" : 33.52,
 		"BMI_min" : 18.28,
-		"nationality" : "Democratic Republic of the Congo"
+		"BMI_avg" : 26.53,
+		"BMI_max" : 33.52
 	},
 	{
 		"_id" : "Denmark",
-		"BMI_avg" : 23.57,
-		"BMI_max" : 27.82,
 		"BMI_min" : 21.08,
-		"nationality" : "Denmark"
+		"BMI_avg" : 23.57,
+		"BMI_max" : 27.82
 	},
 	{
 		"_id" : "Dominica",
-		"BMI_avg" : 26.42,
-		"BMI_max" : 26.42,
 		"BMI_min" : 26.42,
-		"nationality" : "Dominica"
+		"BMI_avg" : 26.42,
+		"BMI_max" : 26.42
 	},
 	{
 		"_id" : "Dominican Republic",
-		"BMI_avg" : 23.95,
-		"BMI_max" : 30.33,
 		"BMI_min" : 18.01,
-		"nationality" : "Dominican Republic"
+		"BMI_avg" : 24.16,
+		"BMI_max" : 30.33
 	},
 	{
 		"_id" : "East Timor",
-		"BMI_avg" : 25.83,
-		"BMI_max" : 32.73,
 		"BMI_min" : 21.53,
-		"nationality" : "East Timor"
+		"BMI_avg" : 25.83,
+		"BMI_max" : 32.73
 	},
 	{
 		"_id" : "Ecuador",
-		"BMI_avg" : 25.66,
-		"BMI_max" : 31.54,
 		"BMI_min" : 19.84,
-		"nationality" : "Ecuador"
+		"BMI_avg" : 25.66,
+		"BMI_max" : 31.54
 	},
 	{
 		"_id" : "Egypt",
-		"BMI_avg" : 24.28,
-		"BMI_max" : 32.03,
 		"BMI_min" : 17.65,
-		"nationality" : "Egypt"
+		"BMI_avg" : 24.28,
+		"BMI_max" : 32.03
 	},
 	{
 		"_id" : "El Salvador",
-		"BMI_avg" : 25.35,
-		"BMI_max" : 33.56,
 		"BMI_min" : 21.93,
-		"nationality" : "El Salvador"
+		"BMI_avg" : 25.35,
+		"BMI_max" : 33.56
 	},
 	{
 		"_id" : "Equatorial Guinea",
-		"BMI_avg" : 24.78,
-		"BMI_max" : 24.78,
 		"BMI_min" : 24.78,
-		"nationality" : "Equatorial Guinea"
+		"BMI_avg" : 24.78,
+		"BMI_max" : 24.78
 	},
 	{
 		"_id" : "Eritrea",
-		"BMI_avg" : 26.19,
-		"BMI_max" : 28.71,
 		"BMI_min" : 24.5,
-		"nationality" : "Eritrea"
+		"BMI_avg" : 26.19,
+		"BMI_max" : 28.71
 	},
 	{
 		"_id" : "Estonia",
-		"BMI_avg" : 25.54,
-		"BMI_max" : 28.68,
 		"BMI_min" : 18.56,
-		"nationality" : "Estonia"
+		"BMI_avg" : 25.54,
+		"BMI_max" : 28.68
 	},
 	{
 		"_id" : "Ethiopia",
-		"BMI_avg" : 25.47,
-		"BMI_max" : 32.85,
 		"BMI_min" : 20.55,
-		"nationality" : "Ethiopia"
+		"BMI_avg" : 25.47,
+		"BMI_max" : 32.85
 	},
 	{
 		"_id" : "Fiji",
-		"BMI_avg" : 21.2,
-		"BMI_max" : 21.2,
 		"BMI_min" : 21.2,
-		"nationality" : "Fiji"
+		"BMI_avg" : 21.2,
+		"BMI_max" : 21.2
 	},
 	{
 		"_id" : "Finland",
-		"BMI_avg" : 25.63,
-		"BMI_max" : 36.89,
 		"BMI_min" : 18.31,
-		"nationality" : "Finland"
+		"BMI_avg" : 25.63,
+		"BMI_max" : 36.89
 	},
 	{
 		"_id" : "France",
-		"BMI_avg" : 25.11,
-		"BMI_max" : 40.69,
-		"BMI_min" : 14.89,
-		"nationality" : "France"
+		"BMI_min" : 17.68,
+		"BMI_avg" : 25.22,
+		"BMI_max" : 40.69
 	},
 	{
 		"_id" : "French Guiana",
-		"BMI_avg" : 25.59,
-		"BMI_max" : 28.91,
 		"BMI_min" : 22.27,
-		"nationality" : "French Guiana"
+		"BMI_avg" : 25.59,
+		"BMI_max" : 28.91
 	},
 	{
 		"_id" : "French Polynesia",
-		"BMI_avg" : 25.35,
-		"BMI_max" : 28.54,
 		"BMI_min" : 20.3,
-		"nationality" : "French Polynesia"
+		"BMI_avg" : 25.35,
+		"BMI_max" : 28.54
 	},
 	{
 		"_id" : "Gabon",
-		"BMI_avg" : 25.66,
-		"BMI_max" : 29.05,
 		"BMI_min" : 22.27,
-		"nationality" : "Gabon"
+		"BMI_avg" : 25.66,
+		"BMI_max" : 29.05
 	},
 	{
 		"_id" : "Gambia",
-		"BMI_avg" : 23.77,
-		"BMI_max" : 29.04,
 		"BMI_min" : 17.84,
-		"nationality" : "Gambia"
+		"BMI_avg" : 23.77,
+		"BMI_max" : 29.04
 	},
 	{
 		"_id" : "Georgia",
-		"BMI_avg" : 24.32,
-		"BMI_max" : 27.7,
 		"BMI_min" : 19.91,
-		"nationality" : "Georgia"
+		"BMI_avg" : 24.32,
+		"BMI_max" : 27.7
 	},
 	{
 		"_id" : "Germany",
-		"BMI_avg" : 24.17,
-		"BMI_max" : 32.56,
-		"BMI_min" : 16.78,
-		"nationality" : "Germany"
+		"BMI_min" : 19.81,
+		"BMI_avg" : 24.62,
+		"BMI_max" : 32.56
 	},
 	{
 		"_id" : "Ghana",
-		"BMI_avg" : 25.21,
-		"BMI_max" : 32.5,
-		"BMI_min" : 19.51,
-		"nationality" : "Ghana"
+		"BMI_min" : 22.31,
+		"BMI_avg" : 25.84,
+		"BMI_max" : 32.5
 	},
 	{
 		"_id" : "Greece",
-		"BMI_avg" : 25.7,
-		"BMI_max" : 41.53,
-		"BMI_min" : 18.24,
-		"nationality" : "Greece"
+		"BMI_min" : 19.13,
+		"BMI_avg" : 25.76,
+		"BMI_max" : 41.53
 	},
 	{
 		"_id" : "Greenland",
-		"BMI_avg" : 25.87,
-		"BMI_max" : 25.87,
 		"BMI_min" : 25.87,
-		"nationality" : "Greenland"
+		"BMI_avg" : 25.87,
+		"BMI_max" : 25.87
 	},
 	{
 		"_id" : "Guadeloupe",
-		"BMI_avg" : 20.62,
-		"BMI_max" : 22.07,
-		"BMI_min" : 19.17,
-		"nationality" : "Guadeloupe"
+		"BMI_min" : 22.07,
+		"BMI_avg" : 22.07,
+		"BMI_max" : 22.07
 	},
 	{
 		"_id" : "Guam",
-		"BMI_avg" : 22.45,
-		"BMI_max" : 24.01,
 		"BMI_min" : 20.67,
-		"nationality" : "Guam"
+		"BMI_avg" : 22.45,
+		"BMI_max" : 24.01
 	},
 	{
 		"_id" : "Guatemala",
-		"BMI_avg" : 25.6,
-		"BMI_max" : 32.13,
 		"BMI_min" : 19.62,
-		"nationality" : "Guatemala"
+		"BMI_avg" : 25.74,
+		"BMI_max" : 32.13
 	},
 	{
 		"_id" : "Guinea",
-		"BMI_avg" : 27.91,
-		"BMI_max" : 34.46,
 		"BMI_min" : 20.46,
-		"nationality" : "Guinea"
+		"BMI_avg" : 27.91,
+		"BMI_max" : 34.46
 	},
 	{
 		"_id" : "Guinea-Bissau",
-		"BMI_avg" : 24.43,
-		"BMI_max" : 26.54,
 		"BMI_min" : 23.29,
-		"nationality" : "Guinea-Bissau"
+		"BMI_avg" : 24.43,
+		"BMI_max" : 26.54
 	},
 	{
 		"_id" : "Guyana",
-		"BMI_avg" : 26.16,
-		"BMI_max" : 28.21,
 		"BMI_min" : 24.1,
-		"nationality" : "Guyana"
+		"BMI_avg" : 26.16,
+		"BMI_max" : 28.21
 	},
 	{
 		"_id" : "Haiti",
-		"BMI_avg" : 25.44,
-		"BMI_max" : 34.71,
-		"BMI_min" : 18.64,
-		"nationality" : "Haiti"
+		"BMI_min" : 21.95,
+		"BMI_avg" : 26.05,
+		"BMI_max" : 34.71
 	},
 	{
 		"_id" : "Honduras",
-		"BMI_avg" : 25.48,
-		"BMI_max" : 35.22,
 		"BMI_min" : 18.48,
-		"nationality" : "Honduras"
+		"BMI_avg" : 25.48,
+		"BMI_max" : 35.22
 	},
 	{
 		"_id" : "Hong Kong",
-		"BMI_avg" : 27.28,
-		"BMI_max" : 27.28,
 		"BMI_min" : 27.28,
-		"nationality" : "Hong Kong"
+		"BMI_avg" : 27.28,
+		"BMI_max" : 27.28
 	},
 	{
 		"_id" : "Hungary",
-		"BMI_avg" : 26.31,
-		"BMI_max" : 32.69,
 		"BMI_min" : 22.36,
-		"nationality" : "Hungary"
+		"BMI_avg" : 26.31,
+		"BMI_max" : 32.69
 	},
 	{
 		"_id" : "Iceland",
-		"BMI_avg" : 25.59,
-		"BMI_max" : 30.15,
 		"BMI_min" : 22.67,
-		"nationality" : "Iceland"
+		"BMI_avg" : 25.59,
+		"BMI_max" : 30.15
 	},
 	{
 		"_id" : "Indonesia",
-		"BMI_avg" : 25.39,
-		"BMI_max" : 45.23,
 		"BMI_min" : 14.75,
-		"nationality" : "Indonesia"
+		"BMI_avg" : 25.5,
+		"BMI_max" : 45.23
 	},
 	{
 		"_id" : "Iran",
-		"BMI_avg" : 25.85,
-		"BMI_max" : 37.98,
 		"BMI_min" : 18.24,
-		"nationality" : "Iran"
+		"BMI_avg" : 25.85,
+		"BMI_max" : 37.98
 	},
 	{
 		"_id" : "Iraq",
-		"BMI_avg" : 24.1,
-		"BMI_max" : 33.24,
 		"BMI_min" : 17.81,
-		"nationality" : "Iraq"
+		"BMI_avg" : 24.1,
+		"BMI_max" : 33.24
 	},
 	{
 		"_id" : "Ireland",
-		"BMI_avg" : 25.95,
-		"BMI_max" : 33.52,
 		"BMI_min" : 17.75,
-		"nationality" : "Ireland"
+		"BMI_avg" : 25.95,
+		"BMI_max" : 33.52
 	},
 	{
 		"_id" : "Israel",
-		"BMI_avg" : 25.06,
-		"BMI_max" : 30.14,
-		"BMI_min" : 16.53,
-		"nationality" : "Israel"
+		"BMI_min" : 21.29,
+		"BMI_avg" : 25.45,
+		"BMI_max" : 30.14
 	},
 	{
 		"_id" : "Italy",
-		"BMI_avg" : 25.22,
-		"BMI_max" : 31.28,
 		"BMI_min" : 18.63,
-		"nationality" : "Italy"
+		"BMI_avg" : 25.22,
+		"BMI_max" : 31.28
 	},
 	{
 		"_id" : "Ivory Coast",
-		"BMI_avg" : 26.74,
-		"BMI_max" : 35.27,
 		"BMI_min" : 20.5,
-		"nationality" : "Ivory Coast"
+		"BMI_avg" : 26.74,
+		"BMI_max" : 35.27
 	},
 	{
 		"_id" : "Jamaica",
-		"BMI_avg" : 24.93,
-		"BMI_max" : 28.98,
 		"BMI_min" : 22.28,
-		"nationality" : "Jamaica"
+		"BMI_avg" : 24.93,
+		"BMI_max" : 28.98
 	},
 	{
 		"_id" : "Japan",
-		"BMI_avg" : 25.29,
-		"BMI_max" : 37.21,
 		"BMI_min" : 18.9,
-		"nationality" : "Japan"
+		"BMI_avg" : 25.29,
+		"BMI_max" : 37.21
 	},
 	{
 		"_id" : "Jordan",
-		"BMI_avg" : 25.6,
-		"BMI_max" : 32.35,
-		"BMI_min" : 17.29,
-		"nationality" : "Jordan"
+		"BMI_min" : 21.21,
+		"BMI_avg" : 26.64,
+		"BMI_max" : 32.35
 	},
 	{
 		"_id" : "Kazakhstan",
-		"BMI_avg" : 25.87,
-		"BMI_max" : 36.9,
 		"BMI_min" : 16.81,
-		"nationality" : "Kazakhstan"
+		"BMI_avg" : 25.87,
+		"BMI_max" : 36.9
 	},
 	{
 		"_id" : "Kenya",
-		"BMI_avg" : 25.84,
-		"BMI_max" : 32.42,
 		"BMI_min" : 21.96,
-		"nationality" : "Kenya"
+		"BMI_avg" : 25.84,
+		"BMI_max" : 32.42
 	},
 	{
 		"_id" : "Kiribati",
-		"BMI_avg" : 23.1,
-		"BMI_max" : 23.1,
 		"BMI_min" : 23.1,
-		"nationality" : "Kiribati"
+		"BMI_avg" : 23.1,
+		"BMI_max" : 23.1
 	},
 	{
 		"_id" : "Kosovo",
-		"BMI_avg" : 24.13,
-		"BMI_max" : 29.62,
 		"BMI_min" : 19.25,
-		"nationality" : "Kosovo"
+		"BMI_avg" : 24.13,
+		"BMI_max" : 29.62
 	},
 	{
 		"_id" : "Kuwait",
-		"BMI_avg" : 25.23,
-		"BMI_max" : 27.18,
 		"BMI_min" : 22.44,
-		"nationality" : "Kuwait"
+		"BMI_avg" : 25.23,
+		"BMI_max" : 27.18
 	},
 	{
 		"_id" : "Kyrgyzstan",
-		"BMI_avg" : 23.79,
-		"BMI_max" : 34.06,
 		"BMI_min" : 16.85,
-		"nationality" : "Kyrgyzstan"
+		"BMI_avg" : 23.79,
+		"BMI_max" : 34.06
 	},
 	{
 		"_id" : "Laos",
-		"BMI_avg" : 24.71,
-		"BMI_max" : 28.47,
 		"BMI_min" : 20.41,
-		"nationality" : "Laos"
+		"BMI_avg" : 24.71,
+		"BMI_max" : 28.47
 	},
 	{
 		"_id" : "Latvia",
-		"BMI_avg" : 26.63,
-		"BMI_max" : 32.89,
 		"BMI_min" : 18.44,
-		"nationality" : "Latvia"
+		"BMI_avg" : 26.63,
+		"BMI_max" : 32.89
 	},
 	{
 		"_id" : "Lebanon",
-		"BMI_avg" : 27.51,
-		"BMI_max" : 32.44,
 		"BMI_min" : 22.7,
-		"nationality" : "Lebanon"
+		"BMI_avg" : 27.51,
+		"BMI_max" : 32.44
 	},
 	{
 		"_id" : "Lesotho",
-		"BMI_avg" : 25.36,
-		"BMI_max" : 30.16,
 		"BMI_min" : 19.8,
-		"nationality" : "Lesotho"
+		"BMI_avg" : 25.36,
+		"BMI_max" : 30.16
 	},
 	{
 		"_id" : "Liberia",
-		"BMI_avg" : 25.9,
-		"BMI_max" : 29.63,
 		"BMI_min" : 22.65,
-		"nationality" : "Liberia"
+		"BMI_avg" : 25.9,
+		"BMI_max" : 29.63
 	},
 	{
 		"_id" : "Libya",
-		"BMI_avg" : 27.27,
-		"BMI_max" : 35.15,
 		"BMI_min" : 21.43,
-		"nationality" : "Libya"
+		"BMI_avg" : 27.27,
+		"BMI_max" : 35.15
 	},
 	{
 		"_id" : "Lithuania",
-		"BMI_avg" : 24.41,
-		"BMI_max" : 30.89,
 		"BMI_min" : 19.69,
-		"nationality" : "Lithuania"
+		"BMI_avg" : 24.41,
+		"BMI_max" : 30.89
 	},
 	{
 		"_id" : "Luxembourg",
-		"BMI_avg" : 26.31,
-		"BMI_max" : 33.22,
 		"BMI_min" : 19.27,
-		"nationality" : "Luxembourg"
+		"BMI_avg" : 26.31,
+		"BMI_max" : 33.22
 	},
 	{
 		"_id" : "Macao",
-		"BMI_avg" : 23.99,
-		"BMI_max" : 23.99,
 		"BMI_min" : 23.99,
-		"nationality" : "Macao"
+		"BMI_avg" : 23.99,
+		"BMI_max" : 23.99
 	},
 	{
 		"_id" : "Macedonia",
-		"BMI_avg" : 25.17,
-		"BMI_max" : 32.53,
 		"BMI_min" : 20.5,
-		"nationality" : "Macedonia"
+		"BMI_avg" : 25.17,
+		"BMI_max" : 32.53
 	},
 	{
 		"_id" : "Madagascar",
-		"BMI_avg" : 24.78,
-		"BMI_max" : 30.19,
 		"BMI_min" : 17.56,
-		"nationality" : "Madagascar"
+		"BMI_avg" : 24.78,
+		"BMI_max" : 30.19
 	},
 	{
 		"_id" : "Malawi",
-		"BMI_avg" : 27.3,
-		"BMI_max" : 30.5,
 		"BMI_min" : 23.29,
-		"nationality" : "Malawi"
+		"BMI_avg" : 27.3,
+		"BMI_max" : 30.5
 	},
 	{
 		"_id" : "Malaysia",
-		"BMI_avg" : 25.61,
-		"BMI_max" : 36.53,
 		"BMI_min" : 18.54,
-		"nationality" : "Malaysia"
+		"BMI_avg" : 25.61,
+		"BMI_max" : 36.53
 	},
 	{
 		"_id" : "Maldives",
-		"BMI_avg" : 25.39,
-		"BMI_max" : 28.26,
 		"BMI_min" : 23.65,
-		"nationality" : "Maldives"
+		"BMI_avg" : 25.39,
+		"BMI_max" : 28.26
 	},
 	{
 		"_id" : "Mali",
-		"BMI_avg" : 24.92,
-		"BMI_max" : 31.67,
 		"BMI_min" : 19.25,
-		"nationality" : "Mali"
+		"BMI_avg" : 24.92,
+		"BMI_max" : 31.67
 	},
 	{
 		"_id" : "Malta",
-		"BMI_avg" : 26.17,
-		"BMI_max" : 36.02,
 		"BMI_min" : 22.12,
-		"nationality" : "Malta"
+		"BMI_avg" : 26.17,
+		"BMI_max" : 36.02
 	},
 	{
 		"_id" : "Marshall Islands",
-		"BMI_avg" : 24.44,
-		"BMI_max" : 26.9,
 		"BMI_min" : 22.4,
-		"nationality" : "Marshall Islands"
+		"BMI_avg" : 24.44,
+		"BMI_max" : 26.9
 	},
 	{
 		"_id" : "Martinique",
-		"BMI_avg" : 24.03,
-		"BMI_max" : 24.03,
 		"BMI_min" : 24.03,
-		"nationality" : "Martinique"
+		"BMI_avg" : 24.03,
+		"BMI_max" : 24.03
 	},
 	{
 		"_id" : "Mauritania",
-		"BMI_avg" : 21.56,
-		"BMI_max" : 22.7,
 		"BMI_min" : 20.43,
-		"nationality" : "Mauritania"
+		"BMI_avg" : 21.56,
+		"BMI_max" : 22.7
 	},
 	{
 		"_id" : "Mauritius",
-		"BMI_avg" : 25.49,
-		"BMI_max" : 38.86,
 		"BMI_min" : 19.23,
-		"nationality" : "Mauritius"
+		"BMI_avg" : 25.49,
+		"BMI_max" : 38.86
 	},
 	{
 		"_id" : "Mexico",
-		"BMI_avg" : 25.38,
-		"BMI_max" : 36.27,
-		"BMI_min" : 17.3,
-		"nationality" : "Mexico"
+		"BMI_min" : 18.92,
+		"BMI_avg" : 25.47,
+		"BMI_max" : 36.27
 	},
 	{
 		"_id" : "Micronesia",
-		"BMI_avg" : 23.31,
-		"BMI_max" : 25.25,
 		"BMI_min" : 20.48,
-		"nationality" : "Micronesia"
+		"BMI_avg" : 23.31,
+		"BMI_max" : 25.25
 	},
 	{
 		"_id" : "Moldova",
-		"BMI_avg" : 25.57,
-		"BMI_max" : 32.57,
 		"BMI_min" : 19.69,
-		"nationality" : "Moldova"
+		"BMI_avg" : 25.57,
+		"BMI_max" : 32.57
 	},
 	{
 		"_id" : "Monaco",
-		"BMI_avg" : 28.93,
-		"BMI_max" : 28.93,
 		"BMI_min" : 28.93,
-		"nationality" : "Monaco"
+		"BMI_avg" : 28.93,
+		"BMI_max" : 28.93
 	},
 	{
 		"_id" : "Mongolia",
-		"BMI_avg" : 23.94,
-		"BMI_max" : 31.48,
 		"BMI_min" : 19.12,
-		"nationality" : "Mongolia"
+		"BMI_avg" : 24.03,
+		"BMI_max" : 31.48
 	},
 	{
 		"_id" : "Montenegro",
-		"BMI_avg" : 24.01,
-		"BMI_max" : 29.53,
 		"BMI_min" : 20.74,
-		"nationality" : "Montenegro"
+		"BMI_avg" : 24.01,
+		"BMI_max" : 29.53
 	},
 	{
 		"_id" : "Morocco",
-		"BMI_avg" : 25.87,
-		"BMI_max" : 32.91,
 		"BMI_min" : 20.18,
-		"nationality" : "Morocco"
+		"BMI_avg" : 25.87,
+		"BMI_max" : 32.91
 	},
 	{
 		"_id" : "Mozambique",
-		"BMI_avg" : 25.56,
-		"BMI_max" : 29.45,
 		"BMI_min" : 22.8,
-		"nationality" : "Mozambique"
+		"BMI_avg" : 25.56,
+		"BMI_max" : 29.45
 	},
 	{
 		"_id" : "Myanmar",
-		"BMI_avg" : 25.96,
-		"BMI_max" : 31.45,
 		"BMI_min" : 21,
-		"nationality" : "Myanmar"
+		"BMI_avg" : 25.96,
+		"BMI_max" : 31.45
 	},
 	{
 		"_id" : "Namibia",
-		"BMI_avg" : 25.49,
-		"BMI_max" : 32.28,
-		"BMI_min" : 19.27,
-		"nationality" : "Namibia"
+		"BMI_min" : 22.33,
+		"BMI_avg" : 26.74,
+		"BMI_max" : 32.28
 	},
 	{
 		"_id" : "Nauru",
-		"BMI_avg" : 22.91,
-		"BMI_max" : 22.91,
 		"BMI_min" : 22.91,
-		"nationality" : "Nauru"
+		"BMI_avg" : 22.91,
+		"BMI_max" : 22.91
 	},
 	{
 		"_id" : "Nepal",
-		"BMI_avg" : 26.43,
-		"BMI_max" : 31.08,
 		"BMI_min" : 19.75,
-		"nationality" : "Nepal"
+		"BMI_avg" : 26.43,
+		"BMI_max" : 31.08
 	},
 	{
 		"_id" : "Netherlands",
-		"BMI_avg" : 26.02,
-		"BMI_max" : 34.91,
 		"BMI_min" : 19.38,
-		"nationality" : "Netherlands"
+		"BMI_avg" : 26.02,
+		"BMI_max" : 34.91
 	},
 	{
 		"_id" : "New Caledonia",
-		"BMI_avg" : 25.51,
-		"BMI_max" : 26.94,
 		"BMI_min" : 24.07,
-		"nationality" : "New Caledonia"
+		"BMI_avg" : 25.51,
+		"BMI_max" : 26.94
 	},
 	{
 		"_id" : "New Zealand",
-		"BMI_avg" : 25.36,
-		"BMI_max" : 33.71,
 		"BMI_min" : 20.02,
-		"nationality" : "New Zealand"
+		"BMI_avg" : 25.36,
+		"BMI_max" : 33.71
 	},
 	{
 		"_id" : "Nicaragua",
-		"BMI_avg" : 23.96,
-		"BMI_max" : 30.04,
 		"BMI_min" : 19.78,
-		"nationality" : "Nicaragua"
+		"BMI_avg" : 24.17,
+		"BMI_max" : 30.04
 	},
 	{
 		"_id" : "Niger",
-		"BMI_avg" : 26.38,
-		"BMI_max" : 30.23,
 		"BMI_min" : 20.07,
-		"nationality" : "Niger"
+		"BMI_avg" : 26.38,
+		"BMI_max" : 30.23
 	},
 	{
 		"_id" : "Nigeria",
-		"BMI_avg" : 24.8,
-		"BMI_max" : 36.16,
 		"BMI_min" : 16.86,
-		"nationality" : "Nigeria"
+		"BMI_avg" : 24.8,
+		"BMI_max" : 36.16
 	},
 	{
 		"_id" : "North Korea",
-		"BMI_avg" : 26.21,
-		"BMI_max" : 30.61,
 		"BMI_min" : 20.92,
-		"nationality" : "North Korea"
+		"BMI_avg" : 26.21,
+		"BMI_max" : 30.61
 	},
 	{
 		"_id" : "Northern Mariana Islands",
-		"BMI_avg" : 25.91,
-		"BMI_max" : 25.91,
 		"BMI_min" : 25.91,
-		"nationality" : "Northern Mariana Islands"
+		"BMI_avg" : 25.91,
+		"BMI_max" : 25.91
 	},
 	{
 		"_id" : "Norway",
-		"BMI_avg" : 27.01,
-		"BMI_max" : 35.17,
 		"BMI_min" : 19.6,
-		"nationality" : "Norway"
+		"BMI_avg" : 27.01,
+		"BMI_max" : 35.17
 	},
 	{
 		"_id" : "Oman",
-		"BMI_avg" : 25.69,
-		"BMI_max" : 27.08,
 		"BMI_min" : 23.6,
-		"nationality" : "Oman"
+		"BMI_avg" : 25.69,
+		"BMI_max" : 27.08
 	},
 	{
 		"_id" : "Pakistan",
-		"BMI_avg" : 25.03,
-		"BMI_max" : 35.54,
 		"BMI_min" : 17.51,
-		"nationality" : "Pakistan"
+		"BMI_avg" : 25.03,
+		"BMI_max" : 35.54
 	},
 	{
 		"_id" : "Palau",
-		"BMI_avg" : 29.62,
-		"BMI_max" : 30,
 		"BMI_min" : 29.24,
-		"nationality" : "Palau"
+		"BMI_avg" : 29.62,
+		"BMI_max" : 30
 	},
 	{
 		"_id" : "Palestinian Territory",
-		"BMI_avg" : 25.52,
-		"BMI_max" : 35.54,
 		"BMI_min" : 19.18,
-		"nationality" : "Palestinian Territory"
+		"BMI_avg" : 25.52,
+		"BMI_max" : 35.54
 	},
 	{
 		"_id" : "Panama",
-		"BMI_avg" : 24.99,
-		"BMI_max" : 33.2,
 		"BMI_min" : 20.5,
-		"nationality" : "Panama"
+		"BMI_avg" : 24.99,
+		"BMI_max" : 33.2
 	},
 	{
 		"_id" : "Papua New Guinea",
-		"BMI_avg" : 24.21,
-		"BMI_max" : 26.9,
 		"BMI_min" : 19.86,
-		"nationality" : "Papua New Guinea"
+		"BMI_avg" : 24.21,
+		"BMI_max" : 26.9
 	},
 	{
 		"_id" : "Paraguay",
-		"BMI_avg" : 25.12,
-		"BMI_max" : 32.98,
 		"BMI_min" : 21.19,
-		"nationality" : "Paraguay"
+		"BMI_avg" : 25.12,
+		"BMI_max" : 32.98
 	},
 	{
 		"_id" : "Peru",
-		"BMI_avg" : 25.22,
-		"BMI_max" : 36.36,
 		"BMI_min" : 17.81,
-		"nationality" : "Peru"
+		"BMI_avg" : 25.27,
+		"BMI_max" : 36.36
 	},
 	{
 		"_id" : "Philippines",
-		"BMI_avg" : 25.13,
-		"BMI_max" : 40.15,
-		"BMI_min" : 15.78,
-		"nationality" : "Philippines"
+		"BMI_min" : 17.75,
+		"BMI_avg" : 25.21,
+		"BMI_max" : 40.15
 	},
 	{
 		"_id" : "Poland",
-		"BMI_avg" : 25.23,
-		"BMI_max" : 36.72,
-		"BMI_min" : 16.79,
-		"nationality" : "Poland"
+		"BMI_min" : 18.01,
+		"BMI_avg" : 25.28,
+		"BMI_max" : 36.72
 	},
 	{
 		"_id" : "Portugal",
-		"BMI_avg" : 25.27,
-		"BMI_max" : 39.67,
-		"BMI_min" : 15.64,
-		"nationality" : "Portugal"
+		"BMI_min" : 17.25,
+		"BMI_avg" : 25.47,
+		"BMI_max" : 39.67
 	},
 	{
 		"_id" : "Puerto Rico",
-		"BMI_avg" : 25.26,
-		"BMI_max" : 27.28,
 		"BMI_min" : 22.62,
-		"nationality" : "Puerto Rico"
+		"BMI_avg" : 25.26,
+		"BMI_max" : 27.28
 	},
 	{
 		"_id" : "Qatar",
-		"BMI_avg" : 25.75,
-		"BMI_max" : 29.6,
 		"BMI_min" : 21.9,
-		"nationality" : "Qatar"
+		"BMI_avg" : 25.75,
+		"BMI_max" : 29.6
 	},
 	{
 		"_id" : "Republic of the Congo",
-		"BMI_avg" : 25.56,
-		"BMI_max" : 30.4,
 		"BMI_min" : 17.66,
-		"nationality" : "Republic of the Congo"
+		"BMI_avg" : 25.56,
+		"BMI_max" : 30.4
 	},
 	{
 		"_id" : "Reunion",
-		"BMI_avg" : 26.42,
-		"BMI_max" : 39.17,
 		"BMI_min" : 18.73,
-		"nationality" : "Reunion"
+		"BMI_avg" : 26.42,
+		"BMI_max" : 39.17
 	},
 	{
 		"_id" : "Russia",
-		"BMI_avg" : 25.27,
-		"BMI_max" : 39.88,
-		"BMI_min" : 15.96,
-		"nationality" : "Russia"
+		"BMI_min" : 17.63,
+		"BMI_avg" : 25.4,
+		"BMI_max" : 39.88
 	},
 	{
 		"_id" : "Rwanda",
-		"BMI_avg" : 25.96,
-		"BMI_max" : 27.6,
 		"BMI_min" : 22.83,
-		"nationality" : "Rwanda"
+		"BMI_avg" : 25.96,
+		"BMI_max" : 27.6
 	},
 	{
 		"_id" : "Saint Kitts and Nevis",
-		"BMI_avg" : 27.8,
-		"BMI_max" : 30.06,
 		"BMI_min" : 25.18,
-		"nationality" : "Saint Kitts and Nevis"
+		"BMI_avg" : 27.8,
+		"BMI_max" : 30.06
 	},
 	{
 		"_id" : "Saint Lucia",
-		"BMI_avg" : 23.01,
-		"BMI_max" : 27.57,
 		"BMI_min" : 20.26,
-		"nationality" : "Saint Lucia"
+		"BMI_avg" : 23.01,
+		"BMI_max" : 27.57
 	},
 	{
 		"_id" : "Samoa",
-		"BMI_avg" : 20.54,
-		"BMI_max" : 20.54,
 		"BMI_min" : 20.54,
-		"nationality" : "Samoa"
+		"BMI_avg" : 20.54,
+		"BMI_max" : 20.54
 	},
 	{
 		"_id" : "Saudi Arabia",
-		"BMI_avg" : 25.68,
-		"BMI_max" : 32.1,
 		"BMI_min" : 19.97,
-		"nationality" : "Saudi Arabia"
+		"BMI_avg" : 25.68,
+		"BMI_max" : 32.1
 	},
 	{
 		"_id" : "Senegal",
-		"BMI_avg" : 23.42,
-		"BMI_max" : 26.59,
 		"BMI_min" : 21.1,
-		"nationality" : "Senegal"
+		"BMI_avg" : 23.42,
+		"BMI_max" : 26.59
 	},
 	{
 		"_id" : "Serbia",
-		"BMI_avg" : 25.67,
-		"BMI_max" : 43.55,
-		"BMI_min" : 18.76,
-		"nationality" : "Serbia"
+		"BMI_min" : 19.73,
+		"BMI_avg" : 25.79,
+		"BMI_max" : 43.55
 	},
 	{
 		"_id" : "Seychelles",
-		"BMI_avg" : 25.71,
-		"BMI_max" : 25.71,
 		"BMI_min" : 25.71,
-		"nationality" : "Seychelles"
+		"BMI_avg" : 25.71,
+		"BMI_max" : 25.71
 	},
 	{
 		"_id" : "Sierra Leone",
-		"BMI_avg" : 25.11,
-		"BMI_max" : 33.45,
 		"BMI_min" : 19.5,
-		"nationality" : "Sierra Leone"
+		"BMI_avg" : 25.11,
+		"BMI_max" : 33.45
 	},
 	{
 		"_id" : "Sint Maarten",
-		"BMI_avg" : 23.16,
-		"BMI_max" : 24.1,
 		"BMI_min" : 22.22,
-		"nationality" : "Sint Maarten"
+		"BMI_avg" : 23.16,
+		"BMI_max" : 24.1
 	},
 	{
 		"_id" : "Slovakia",
-		"BMI_avg" : 21.34,
-		"BMI_max" : 21.34,
 		"BMI_min" : 21.34,
-		"nationality" : "Slovakia"
+		"BMI_avg" : 21.34,
+		"BMI_max" : 21.34
 	},
 	{
 		"_id" : "Slovenia",
-		"BMI_avg" : 25.04,
-		"BMI_max" : 32.66,
 		"BMI_min" : 17.37,
-		"nationality" : "Slovenia"
+		"BMI_avg" : 25.21,
+		"BMI_max" : 32.66
 	},
 	{
 		"_id" : "Somalia",
-		"BMI_avg" : 29.95,
-		"BMI_max" : 29.95,
 		"BMI_min" : 29.95,
-		"nationality" : "Somalia"
+		"BMI_avg" : 29.95,
+		"BMI_max" : 29.95
 	},
 	{
 		"_id" : "South Africa",
-		"BMI_avg" : 25.86,
-		"BMI_max" : 40.54,
 		"BMI_min" : 17.34,
-		"nationality" : "South Africa"
+		"BMI_avg" : 25.86,
+		"BMI_max" : 40.54
 	},
 	{
 		"_id" : "South Korea",
-		"BMI_avg" : 24.52,
-		"BMI_max" : 31.35,
-		"BMI_min" : 17.72,
-		"nationality" : "South Korea"
+		"BMI_min" : 19.48,
+		"BMI_avg" : 24.68,
+		"BMI_max" : 31.35
 	},
 	{
 		"_id" : "South Sudan",
-		"BMI_avg" : 25.96,
-		"BMI_max" : 25.96,
 		"BMI_min" : 25.96,
-		"nationality" : "South Sudan"
+		"BMI_avg" : 25.96,
+		"BMI_max" : 25.96
 	},
 	{
 		"_id" : "Spain",
-		"BMI_avg" : 26.17,
-		"BMI_max" : 34.94,
 		"BMI_min" : 21.72,
-		"nationality" : "Spain"
+		"BMI_avg" : 26.17,
+		"BMI_max" : 34.94
 	},
 	{
 		"_id" : "Sri Lanka",
-		"BMI_avg" : 24.58,
-		"BMI_max" : 28.6,
 		"BMI_min" : 20.74,
-		"nationality" : "Sri Lanka"
+		"BMI_avg" : 24.58,
+		"BMI_max" : 28.6
 	},
 	{
 		"_id" : "Sudan",
-		"BMI_avg" : 24.95,
-		"BMI_max" : 26.39,
 		"BMI_min" : 22.77,
-		"nationality" : "Sudan"
+		"BMI_avg" : 24.95,
+		"BMI_max" : 26.39
 	},
 	{
 		"_id" : "Suriname",
-		"BMI_avg" : 30.39,
-		"BMI_max" : 30.39,
 		"BMI_min" : 30.39,
-		"nationality" : "Suriname"
+		"BMI_avg" : 30.39,
+		"BMI_max" : 30.39
 	},
 	{
 		"_id" : "Swaziland",
-		"BMI_avg" : 20.9,
-		"BMI_max" : 20.9,
 		"BMI_min" : 20.9,
-		"nationality" : "Swaziland"
+		"BMI_avg" : 20.9,
+		"BMI_max" : 20.9
 	},
 	{
 		"_id" : "Sweden",
-		"BMI_avg" : 25.66,
-		"BMI_max" : 40.09,
-		"BMI_min" : 17.42,
-		"nationality" : "Sweden"
+		"BMI_min" : 18.1,
+		"BMI_avg" : 25.76,
+		"BMI_max" : 40.09
 	},
 	{
 		"_id" : "Switzerland",
-		"BMI_avg" : 25.71,
-		"BMI_max" : 31.15,
 		"BMI_min" : 20.19,
-		"nationality" : "Switzerland"
+		"BMI_avg" : 25.71,
+		"BMI_max" : 31.15
 	},
 	{
 		"_id" : "Syria",
-		"BMI_avg" : 25.38,
-		"BMI_max" : 36.4,
 		"BMI_min" : 18.67,
-		"nationality" : "Syria"
+		"BMI_avg" : 25.38,
+		"BMI_max" : 36.4
 	},
 	{
 		"_id" : "Taiwan",
-		"BMI_avg" : 26.61,
-		"BMI_max" : 31.17,
 		"BMI_min" : 20.36,
-		"nationality" : "Taiwan"
+		"BMI_avg" : 26.61,
+		"BMI_max" : 31.17
 	},
 	{
 		"_id" : "Tajikistan",
-		"BMI_avg" : 24.96,
-		"BMI_max" : 31.13,
 		"BMI_min" : 19.99,
-		"nationality" : "Tajikistan"
+		"BMI_avg" : 24.96,
+		"BMI_max" : 31.13
 	},
 	{
 		"_id" : "Tanzania",
-		"BMI_avg" : 25.78,
-		"BMI_max" : 35,
-		"BMI_min" : 17.24,
-		"nationality" : "Tanzania"
+		"BMI_min" : 20.05,
+		"BMI_avg" : 26.25,
+		"BMI_max" : 35
 	},
 	{
 		"_id" : "Thailand",
-		"BMI_avg" : 25.63,
-		"BMI_max" : 35.59,
 		"BMI_min" : 18.18,
-		"nationality" : "Thailand"
+		"BMI_avg" : 25.69,
+		"BMI_max" : 35.59
 	},
 	{
 		"_id" : "Togo",
-		"BMI_avg" : 23.27,
-		"BMI_max" : 24.56,
 		"BMI_min" : 21.48,
-		"nationality" : "Togo"
+		"BMI_avg" : 23.27,
+		"BMI_max" : 24.56
 	},
 	{
 		"_id" : "Tonga",
-		"BMI_avg" : 23.83,
-		"BMI_max" : 23.83,
 		"BMI_min" : 23.83,
-		"nationality" : "Tonga"
+		"BMI_avg" : 23.83,
+		"BMI_max" : 23.83
 	},
 	{
 		"_id" : "Trinidad and Tobago",
-		"BMI_avg" : 27.6,
-		"BMI_max" : 31.52,
 		"BMI_min" : 22.71,
-		"nationality" : "Trinidad and Tobago"
+		"BMI_avg" : 27.6,
+		"BMI_max" : 31.52
 	},
 	{
 		"_id" : "Tunisia",
-		"BMI_avg" : 23.81,
-		"BMI_max" : 30.38,
-		"BMI_min" : 17.9,
-		"nationality" : "Tunisia"
+		"BMI_min" : 18.61,
+		"BMI_avg" : 24.19,
+		"BMI_max" : 30.38
 	},
 	{
 		"_id" : "Turkey",
-		"BMI_avg" : 22.99,
-		"BMI_max" : 23.22,
 		"BMI_min" : 22.71,
-		"nationality" : "Turkey"
+		"BMI_avg" : 22.99,
+		"BMI_max" : 23.22
 	},
 	{
 		"_id" : "Turkmenistan",
-		"BMI_avg" : 26.07,
-		"BMI_max" : 30.26,
 		"BMI_min" : 21.54,
-		"nationality" : "Turkmenistan"
+		"BMI_avg" : 26.07,
+		"BMI_max" : 30.26
 	},
 	{
 		"_id" : "Tuvalu",
-		"BMI_avg" : 22.6,
-		"BMI_max" : 22.6,
 		"BMI_min" : 22.6,
-		"nationality" : "Tuvalu"
+		"BMI_avg" : 22.6,
+		"BMI_max" : 22.6
 	},
 	{
 		"_id" : "Uganda",
-		"BMI_avg" : 25.8,
-		"BMI_max" : 33.25,
 		"BMI_min" : 20.59,
-		"nationality" : "Uganda"
+		"BMI_avg" : 25.8,
+		"BMI_max" : 33.25
 	},
 	{
 		"_id" : "Ukraine",
-		"BMI_avg" : 25.09,
-		"BMI_max" : 36.84,
-		"BMI_min" : 16.53,
-		"nationality" : "Ukraine"
+		"BMI_min" : 17.02,
+		"BMI_avg" : 25.21,
+		"BMI_max" : 36.84
 	},
 	{
 		"_id" : "United Arab Emirates",
-		"BMI_avg" : 26.57,
-		"BMI_max" : 29.75,
 		"BMI_min" : 23.39,
-		"nationality" : "United Arab Emirates"
+		"BMI_avg" : 26.57,
+		"BMI_max" : 29.75
 	},
 	{
 		"_id" : "United Kingdom",
-		"BMI_avg" : 23.79,
-		"BMI_max" : 31.9,
 		"BMI_min" : 19.43,
-		"nationality" : "United Kingdom"
+		"BMI_avg" : 23.79,
+		"BMI_max" : 31.9
 	},
 	{
 		"_id" : "United States",
-		"BMI_avg" : 25.71,
-		"BMI_max" : 36.7,
-		"BMI_min" : 18.5,
-		"nationality" : "United States"
+		"BMI_min" : 18.8,
+		"BMI_avg" : 25.75,
+		"BMI_max" : 36.7
 	},
 	{
 		"_id" : "Uruguay",
-		"BMI_avg" : 25.32,
-		"BMI_max" : 34.36,
 		"BMI_min" : 20.37,
-		"nationality" : "Uruguay"
+		"BMI_avg" : 25.32,
+		"BMI_max" : 34.36
 	},
 	{
 		"_id" : "Uzbekistan",
-		"BMI_avg" : 25.9,
-		"BMI_max" : 32.3,
 		"BMI_min" : 19.78,
-		"nationality" : "Uzbekistan"
+		"BMI_avg" : 25.9,
+		"BMI_max" : 32.3
 	},
 	{
 		"_id" : "Vanuatu",
-		"BMI_avg" : 24.7,
-		"BMI_max" : 27.21,
 		"BMI_min" : 23.05,
-		"nationality" : "Vanuatu"
+		"BMI_avg" : 24.7,
+		"BMI_max" : 27.21
 	},
 	{
 		"_id" : "Venezuela",
-		"BMI_avg" : 24.76,
-		"BMI_max" : 31.14,
-		"BMI_min" : 18.86,
-		"nationality" : "Venezuela"
+		"BMI_min" : 19.14,
+		"BMI_avg" : 24.91,
+		"BMI_max" : 31.14
 	},
 	{
 		"_id" : "Vietnam",
-		"BMI_avg" : 24.9,
-		"BMI_max" : 32.97,
 		"BMI_min" : 16.59,
-		"nationality" : "Vietnam"
+		"BMI_avg" : 25.04,
+		"BMI_max" : 32.97
 	},
 	{
 		"_id" : "Wallis and Futuna",
-		"BMI_avg" : 26.38,
-		"BMI_max" : 28.43,
 		"BMI_min" : 24.33,
-		"nationality" : "Wallis and Futuna"
+		"BMI_avg" : 26.38,
+		"BMI_max" : 28.43
 	},
 	{
 		"_id" : "Western Sahara",
-		"BMI_avg" : 22.75,
-		"BMI_max" : 22.75,
 		"BMI_min" : 22.75,
-		"nationality" : "Western Sahara"
+		"BMI_avg" : 22.75,
+		"BMI_max" : 22.75
 	},
 	{
 		"_id" : "Yemen",
-		"BMI_avg" : 25.52,
-		"BMI_max" : 34.85,
 		"BMI_min" : 20.91,
-		"nationality" : "Yemen"
+		"BMI_avg" : 25.52,
+		"BMI_max" : 34.85
 	},
 	{
 		"_id" : "Zambia",
-		"BMI_avg" : 25.86,
-		"BMI_max" : 31.45,
 		"BMI_min" : 20.34,
-		"nationality" : "Zambia"
+		"BMI_avg" : 25.86,
+		"BMI_max" : 31.45
 	},
 	{
 		"_id" : "Zimbabwe",
-		"BMI_avg" : 26.98,
-		"BMI_max" : 35.12,
 		"BMI_min" : 22.61,
-		"nationality" : "Zimbabwe"
+		"BMI_avg" : 26.98,
+		"BMI_max" : 35.12
 	}
 ]

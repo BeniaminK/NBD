@@ -1,32 +1,52 @@
 // 4. Średnie, minimalne i maksymalne BMI (waga/wzrost^2) dla osób w bazie, w podziale na narodowości;
 //MR
-var zad_name = "zad_4"
-var mapFunction = function() {
-	w = parseFloat(this.weight)
-	h = parseFloat(this.height) / 100
-	bmi = w / (h * h)
-	emit(this.nationality, bmi)
-}
+const zad_name = "zad_4";
 
-var reduceFunction = function(key, values) {
-	bmi_max = Math.max(...values)
-	bmi_min = Math.min(...values)
-	bmi_avg = Array.sum(values) / values.length
+const mapFunction = function() {
+    const w = parseFloat(this.weight);
+    const h = parseFloat(this.height) / 100;
+	const bmi = w / (h * h);
 
-	value = {
-		"bmi_max": bmi_max,
-		"bmi_min": bmi_min,
-		"bmi_avg": bmi_avg,
-	}
-	return value;
+	const value = {
+		BMI_max: bmi,
+		BMI_min: bmi,
+		BMI_sum: bmi,
+        counter: 1
+	};
+
+	emit(this.nationality, value);
+};
+
+const reduceFunction = function(key, values) {
+
+	const retValue = {
+		BMI_max: values[0].BMI_max,
+		BMI_min: values[0].BMI_min,
+		BMI_sum: 0,
+        counter: 0
+	};
+
+    for (let i = 0; i < values.length; i++) {
+        retValue.BMI_max = Math.max(values[i].BMI_max, retValue.BMI_max);
+        retValue.BMI_min = Math.min(values[i].BMI_min, retValue.BMI_min);
+        retValue.BMI_sum += values[i].BMI_sum;
+        retValue.counter += values[i].counter;
+    }
+
+	return retValue;
 };
 
 
-var finalizeFunction = function (key, reducedVal) {
-	return reducedVal;
+const finalizeFunction = function (key, reducedVal) {
+	const retValue = {
+		BMI_min: reducedVal.BMI_min,
+		BMI_avg: reducedVal.BMI_sum / reducedVal.counter,
+		BMI_max: reducedVal.BMI_max,
+	};
+	return retValue;
 };
 
-var c = db.people.mapReduce(
+db.people.mapReduce(
 	mapFunction,
 	reduceFunction,
     {
@@ -34,9 +54,7 @@ var c = db.people.mapReduce(
         out: zad_name,
 		finalize: finalizeFunction
     }
-)
+);
 
-printjson(c)
-
-printjson(db.getCollection(zad_name).find().sort( { _id: 1 } ).toArray())
+printjson(db.getCollection(zad_name).find().sort( { _id: 1 } ).toArray());
 

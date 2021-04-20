@@ -1,6 +1,6 @@
 // 2. Łączną ilość środków pozostałych na kartach kredytowych osób w bazie, w podziale na waluty;
 //A
-var c = db.people.aggregate([
+const c = db.people.aggregate([
     {
         $unwind: "$credit"
     },
@@ -23,7 +23,7 @@ var c = db.people.aggregate([
         }
     }
 
-])
+]);
 
-printjson(c.toArray())
+printjson(c.toArray());
 

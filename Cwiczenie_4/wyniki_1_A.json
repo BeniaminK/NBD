@@ -1,12 +1,12 @@
 [
 	{
-		"_id" : "Female",
-		"avg_weight" : NumberDecimal("70.11"),
-		"avg_height" : NumberDecimal("167.13")
+		"_id" : "Male",
+		"avg_weight" : NumberDecimal("70.02"),
+		"avg_height" : NumberDecimal("166.74")
 	},
 	{
-		"_id" : "Male",
-		"avg_weight" : NumberDecimal("70.00"),
-		"avg_height" : NumberDecimal("167.08")
+		"_id" : "Female",
+		"avg_weight" : NumberDecimal("70.11"),
+		"avg_height" : NumberDecimal("166.81")
 	}
 ]
