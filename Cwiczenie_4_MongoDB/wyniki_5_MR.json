@@ -331,8 +331,8 @@
 	{
 		"_id" : "PEN",
 		"value" : {
-			"money_sum" : "18644.94",
-			"money_avg" : 4661.235
+			"money_sum" : "23227.35",
+			"money_avg" : 4645.47
 		}
 	},
 	{
@@ -429,8 +429,8 @@
 	{
 		"_id" : "USD",
 		"value" : {
-			"money_sum" : "74680.98",
-			"money_avg" : 4978.732
+			"money_sum" : "80650.70",
+			"money_avg" : 5040.66875
 		}
 	},
 	{

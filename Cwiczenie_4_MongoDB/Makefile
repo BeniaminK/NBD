@@ -1,5 +1,5 @@
 MONGODB_SERVER=mongodb://192.168.1.39:49154/nbd
-DATA_FILE=/home/beniamin/Downloads/NBD/Ćwiczenia/cwiczenia2.json 
+DATA_FILE=../Cwiczenie_3_MongoDB/cwiczenia2.json 
 
 LAST := 5
 
