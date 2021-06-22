@@ -1,0 +1,1327 @@
+﻿[
+  {
+    "actor": {
+"identity": 0,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Lori Petty",
+"born": 1963
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 178,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Keanu Reeves",
+"born": 1964
+      }
+    },
+    "movieCount": 7
+  },
+  {
+    "actor": {
+"identity": 179,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Carrie-Anne Moss",
+"born": 1967
+      }
+    },
+    "movieCount": 3
+  },
+  {
+    "actor": {
+"identity": 180,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Laurence Fishburne",
+"born": 1961
+      }
+    },
+    "movieCount": 3
+  },
+  {
+    "actor": {
+"identity": 181,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    },
+    "movieCount": 5
+  },
+  {
+    "actor": {
+"identity": 185,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Emil Eifrem",
+"born": 1978
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 189,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Charlize Theron",
+"born": 1975
+      }
+    },
+    "movieCount": 2
+  },
+  {
+    "actor": {
+"identity": 190,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Al Pacino",
+"born": 1940
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 193,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Tom Cruise",
+"born": 1962
+      }
+    },
+    "movieCount": 3
+  },
+  {
+    "actor": {
+"identity": 194,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Jack Nicholson",
+"born": 1937
+      }
+    },
+    "movieCount": 5
+  },
+  {
+    "actor": {
+"identity": 195,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Demi Moore",
+"born": 1962
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 196,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Kevin Bacon",
+"born": 1958
+      }
+    },
+    "movieCount": 3
+  },
+  {
+    "actor": {
+"identity": 197,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Kiefer Sutherland",
+"born": 1966
+      }
+    },
+    "movieCount": 2
+  },
+  {
+    "actor": {
+"identity": 198,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Noah Wyle",
+"born": 1971
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 199,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Cuba Gooding Jr.",
+"born": 1968
+      }
+    },
+    "movieCount": 4
+  },
+  {
+    "actor": {
+"identity": 200,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Kevin Pollak",
+"born": 1957
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 201,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "J.T. Walsh",
+"born": 1943
+      }
+    },
+    "movieCount": 2
+  },
+  {
+    "actor": {
+"identity": 202,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "James Marshall",
+"born": 1967
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 203,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Christopher Guest",
+"born": 1948
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 205,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Aaron Sorkin",
+"born": 1961
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 207,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Kelly McGillis",
+"born": 1957
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 208,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Val Kilmer",
+"born": 1959
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 209,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Anthony Edwards",
+"born": 1962
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 210,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Tom Skerritt",
+"born": 1933
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 211,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Meg Ryan",
+"born": 1961
+      }
+    },
+    "movieCount": 5
+  },
+  {
+    "actor": {
+"identity": 215,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Renee Zellweger",
+"born": 1969
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 216,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Kelly Preston",
+"born": 1962
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 217,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Jerry O'Connell",
+"born": 1974
+      }
+    },
+    "movieCount": 2
+  },
+  {
+    "actor": {
+"identity": 218,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Jay Mohr",
+"born": 1970
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 219,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Bonnie Hunt",
+"born": 1961
+      }
+    },
+    "movieCount": 2
+  },
+  {
+    "actor": {
+"identity": 220,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Regina King",
+"born": 1971
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 221,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Jonathan Lipnicki",
+"born": 1996
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 224,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "River Phoenix",
+"born": 1970
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 225,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Corey Feldman",
+"born": 1971
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 226,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Wil Wheaton",
+"born": 1972
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 227,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "John Cusack",
+"born": 1966
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 228,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Marshall Bell",
+"born": 1942
+      }
+    },
+    "movieCount": 2
+  },
+  {
+    "actor": {
+"identity": 230,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Helen Hunt",
+"born": 1963
+      }
+    },
+    "movieCount": 3
+  },
+  {
+    "actor": {
+"identity": 231,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Greg Kinnear",
+"born": 1963
+      }
+    },
+    "movieCount": 2
+  },
+  {
+    "actor": {
+"identity": 234,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Annabella Sciorra",
+"born": 1960
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 235,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Max von Sydow",
+"born": 1929
+      }
+    },
+    "movieCount": 2
+  },
+  {
+    "actor": {
+"identity": 236,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Werner Herzog",
+"born": 1942
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 237,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Robin Williams",
+"born": 1951
+      }
+    },
+    "movieCount": 3
+  },
+  {
+    "actor": {
+"identity": 240,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Ethan Hawke",
+"born": 1970
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 241,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Rick Yune",
+"born": 1971
+      }
+    },
+    "movieCount": 2
+  },
+  {
+    "actor": {
+"identity": 242,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "James Cromwell",
+"born": 1940
+      }
+    },
+    "movieCount": 2
+  },
+  {
+    "actor": {
+"identity": 245,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Parker Posey",
+"born": 1968
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 246,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Dave Chappelle",
+"born": 1973
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 247,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Steve Zahn",
+"born": 1967
+      }
+    },
+    "movieCount": 2
+  },
+  {
+    "actor": {
+"identity": 248,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Tom Hanks",
+"born": 1956
+      }
+    },
+    "movieCount": 12
+  },
+  {
+    "actor": {
+"identity": 251,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Rita Wilson",
+"born": 1956
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 252,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Bill Pullman",
+"born": 1953
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 253,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Victor Garber",
+"born": 1949
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 254,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Rosie O'Donnell",
+"born": 1962
+      }
+    },
+    "movieCount": 2
+  },
+  {
+    "actor": {
+"identity": 257,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Nathan Lane",
+"born": 1956
+      }
+    },
+    "movieCount": 2
+  },
+  {
+    "actor": {
+"identity": 259,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Billy Crystal",
+"born": 1948
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 260,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Carrie Fisher",
+"born": 1956
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 261,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Bruno Kirby",
+"born": 1949
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 263,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Liv Tyler",
+"born": 1977
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 265,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Brooke Langton",
+"born": 1970
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 266,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Gene Hackman",
+"born": 1930
+      }
+    },
+    "movieCount": 3
+  },
+  {
+    "actor": {
+"identity": 267,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Orlando Jones",
+"born": 1968
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 270,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Christian Bale",
+"born": 1974
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 271,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Zach Grenier",
+"born": 1954
+      }
+    },
+    "movieCount": 2
+  },
+  {
+    "actor": {
+"identity": 275,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Richard Harris",
+"born": 1930
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 276,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Clint Eastwood",
+"born": 1930
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 278,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Takeshi Kitano",
+"born": 1947
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 279,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Dina Meyer",
+"born": 1968
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 280,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Ice-T",
+"born": 1958
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 283,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Halle Berry",
+"born": 1966
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 284,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Jim Broadbent",
+"born": 1949
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 289,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Ian McKellen",
+"born": 1939
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 290,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Audrey Tautou",
+"born": 1976
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 291,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Paul Bettany",
+"born": 1971
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 294,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Natalie Portman",
+"born": 1981
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 295,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Stephen Rea",
+"born": 1946
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 296,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "John Hurt",
+"born": 1940
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 297,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Ben Miles",
+"born": 1967
+      }
+    },
+    "movieCount": 3
+  },
+  {
+    "actor": {
+"identity": 299,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Emile Hirsch",
+"born": 1985
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 300,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "John Goodman",
+"born": 1960
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 301,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Susan Sarandon",
+"born": 1946
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 302,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Matthew Fox",
+"born": 1966
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 303,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Christina Ricci",
+"born": 1980
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 304,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Rain",
+"born": 1982
+      }
+    },
+    "movieCount": 2
+  },
+  {
+    "actor": {
+"identity": 306,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Naomie Harris"
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 308,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Michael Clarke Duncan",
+"born": 1957
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 309,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "David Morse",
+"born": 1953
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 310,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Sam Rockwell",
+"born": 1968
+      }
+    },
+    "movieCount": 2
+  },
+  {
+    "actor": {
+"identity": 311,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Gary Sinise",
+"born": 1955
+      }
+    },
+    "movieCount": 2
+  },
+  {
+    "actor": {
+"identity": 312,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Patricia Clarkson",
+"born": 1959
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 315,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Frank Langella",
+"born": 1938
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 316,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Michael Sheen",
+"born": 1969
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 317,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Oliver Platt",
+"born": 1960
+      }
+    },
+    "movieCount": 2
+  },
+  {
+    "actor": {
+"identity": 319,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Danny DeVito",
+"born": 1944
+      }
+    },
+    "movieCount": 2
+  },
+  {
+    "actor": {
+"identity": 320,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "John C. Reilly",
+"born": 1965
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 322,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Ed Harris",
+"born": 1950
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 323,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Bill Paxton",
+"born": 1955
+      }
+    },
+    "movieCount": 3
+  },
+  {
+    "actor": {
+"identity": 325,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Philip Seymour Hoffman",
+"born": 1967
+      }
+    },
+    "movieCount": 2
+  },
+  {
+    "actor": {
+"identity": 332,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Diane Keaton",
+"born": 1946
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 337,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Julia Roberts",
+"born": 1967
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 340,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Madonna",
+"born": 1954
+      }
+    },
+    "movieCount": 1
+  },
+  {
+    "actor": {
+"identity": 341,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Geena Davis",
+"born": 1956
+      }
+    },
+    "movieCount": 1
+  }
+]

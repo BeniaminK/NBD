@@ -1,0 +1,55 @@
+1.
+MATCH (movie:Movie)
+RETURN movie
+2.
+MATCH ({name: 'Hugo Weaving'})-[:ACTED_IN]->(movie)
+RETURN movie
+3.
+MATCH ({name: 'Hugo Weaving'})-[:ACTED_IN]->() <- [:DIRECTED]-(director)
+RETURN DISTINCT director
+4.
+MATCH ({name: 'Hugo Weaving'})-[:ACTED_IN]->() <- [:ACTED_IN]-(actor)
+RETURN DISTINCT actor
+5.
+MATCH (Movie{title: 'The Matrix'})<-[:ACTED_IN]-()-[:ACTED_IN]->(movies)
+RETURN DISTINCT movies
+6.
+MATCH (actor:Person)-[:ACTED_IN]-(movie)
+WITH actor, count(movie) as movieCount
+RETURN actor, movieCount
+7.
+MATCH (director:Person)-[:DIRECTED]-(movie:Movie)-[:WROTE]-(screenplay:Person)
+WHERE director = screenplay
+RETURN director, movie
+8.
+MATCH (hugo:Person{name:"Hugo Weaving"})-[:ACTED_IN]->(movie:Movie)<-[:ACTED_IN]-(keanu:Person{name:"Keanu Reeves"})
+RETURN hugo, keanu,movie
+9. 
+CREATE (CptAmerica:Movie {title:'Captain America: The First Avenger', released:2011, tagline:'When patriots become heroes'})
+MERGE (Evans:Person {name:'Chris Evans', born:1981})
+MERGE (Atwell:Person {name:'Hayley Atwell', born:1982})
+MERGE (Stan:Person {name:'Sebastian Stan', born:1982})
+MERGE (TLJ:Person {name:'Tommy Lee Jones', born:1946})
+MERGE (Weaving:Person {name:'Hugo Weaving', born:1960})
+MERGE (Cooper:Person {name:'Dominic Cooper', born:1978})
+MERGE (Armitage:Person {name:'Richard Armitage', born:1971})
+MERGE (JJohnston:Person {name:'Joe Johnston', born:1950})
+MERGE (KFeige:Person {name:'Kevin Feige', born: 1973})
+MERGE (CMarkus:Person {name:'Christopher Markus', born: 1970})
+MERGE (SmcFeely:Person {name:'Stephen McFeely', born: 1969})
+
+CREATE
+(Evans)-[:ACTED_IN {roles:['Captain America', 'Steve Rogers']}]->(CptAmerica),
+(Atwell)-[:ACTED_IN {roles:['Peggy Carter']}]->(CptAmerica),
+(Stan)-[:ACTED_IN {roles:['James Buchanan \'Bucky\' Barnes']}]->(CptAmerica),
+(TLJ)-[:ACTED_IN {roles:['Colonel Chester Phillips']}]->(CptAmerica),
+(Weaving)-[:ACTED_IN {roles:['Johann Schmidt / Red Skull']}]->(CptAmerica),
+(Cooper)-[:ACTED_IN {roles:['Howard Stark']}]->(CptAmerica),
+(Armitage)-[:ACTED_IN {roles:['Heinz Kruger']}]->(CptAmerica),
+(JJohnston)-[:DIRECTED]->(CptAmerica),
+(KFeige)-[:PRODUCED]->(CptAmerica),
+(CMarkus)-[:WROTE]->(CptAmerica),
+(SMcFeely)-[:WROTE]->(CptAmerica)
+
+MATCH (p:Person)-[]->(m:Movie{title:'Captain America: The First Avenger'})
+RETURN m, p;

@@ -1,0 +1,26 @@
+╒══════════════════════════════════════════════════════════════════════╕
+│"movies"                                                              │
+╞══════════════════════════════════════════════════════════════════════╡
+│{"tagline":"Everything that has a beginning has an end","title":"The M│
+│atrix Revolutions","released":2003}                                   │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"Free your mind","title":"The Matrix Reloaded","released":2│
+│003}                                                                  │
+├──────────────────────────────────────────────────────────────────────┤
+│{"title":"Something's Gotta Give","released":2003}                    │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"The hottest data on earth. In the coolest head in town","t│
+│itle":"Johnny Mnemonic","released":1995}                              │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"Pain heals, Chicks dig scars... Glory lasts forever","titl│
+│e":"The Replacements","released":2000}                                │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"Evil has its winning ways","title":"The Devil's Advocate",│
+│"released":1997}                                                      │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"Everything is connected","title":"Cloud Atlas","released":│
+│2012}                                                                 │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"Freedom! Forever!","title":"V for Vendetta","released":200│
+│6}                                                                    │
+└──────────────────────────────────────────────────────────────────────┘

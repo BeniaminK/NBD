@@ -1,0 +1,121 @@
+╒══════════════════════════════════════════════════════════════════════╕
+│"movie"                                                               │
+╞══════════════════════════════════════════════════════════════════════╡
+│{"tagline":"Welcome to the Real World","title":"The Matrix","released"│
+│:1999}                                                                │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"Free your mind","title":"The Matrix Reloaded","released":2│
+│003}                                                                  │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"Everything that has a beginning has an end","title":"The M│
+│atrix Revolutions","released":2003}                                   │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"Evil has its winning ways","title":"The Devil's Advocate",│
+│"released":1997}                                                      │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"In the heart of the nation's capital, in a courthouse of t│
+│he U.S. government, one man will stop at nothing to keep his honor, an│
+│d one will stop at nothing to find the truth.","title":"A Few Good Men│
+│","released":1992}                                                    │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"I feel the need, the need for speed.","title":"Top Gun","r│
+│eleased":1986}                                                        │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"The rest of his life begins now.","title":"Jerry Maguire",│
+│"released":2000}                                                      │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"For some, it's the last real taste of innocence, and the f│
+│irst real taste of life. But for everyone, it's the time that memories│
+│ are made of.","title":"Stand By Me","released":1986}                 │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"A comedy from the heart that goes for the throat.","title"│
+│:"As Good as It Gets","released":1997}                                │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"After life there is more. The end is just the beginning.",│
+│"title":"What Dreams May Come","released":1998}                       │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"First loves last. Forever.","title":"Snow Falling on Cedar│
+│s","released":1999}                                                   │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"At odds in life... in love on-line.","title":"You've Got M│
+│ail","released":1998}                                                 │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"What if someone you never met, someone you never saw, some│
+│one you never knew was the only someone for you?","title":"Sleepless i│
+│n Seattle","released":1993}                                           │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"A story of love, lava and burning desire.","title":"Joe Ve│
+│rsus the Volcano","released":1990}                                    │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"Can two friends sleep together and still love each other i│
+│n the morning?","title":"When Harry Met Sally","released":1998}       │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"In every life there comes a time when that thing you dream│
+│ becomes that thing you do","title":"That Thing You Do","released":199│
+│6}                                                                    │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"Pain heals, Chicks dig scars... Glory lasts forever","titl│
+│e":"The Replacements","released":2000}                                │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"Based on the extraordinary true story of one man's fight f│
+│or freedom","title":"RescueDawn","released":2006}                     │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"Come as you are","title":"The Birdcage","released":1996}  │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"It's a hell of a thing, killing a man","title":"Unforgiven│
+│","released":1992}                                                    │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"The hottest data on earth. In the coolest head in town","t│
+│itle":"Johnny Mnemonic","released":1995}                              │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"Everything is connected","title":"Cloud Atlas","released":│
+│2012}                                                                 │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"Break The Codes","title":"The Da Vinci Code","released":20│
+│06}                                                                   │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"Freedom! Forever!","title":"V for Vendetta","released":200│
+│6}                                                                    │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"Speed has no limits","title":"Speed Racer","released":2008│
+│}                                                                     │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"Prepare to enter a secret world of assassins","title":"Nin│
+│ja Assassin","released":2009}                                         │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"Walk a mile you'll never forget.","title":"The Green Mile"│
+│,"released":1999}                                                     │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"400 million people were waiting for the truth.","title":"F│
+│rost/Nixon","released":2008}                                          │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"He didn't want law. He wanted justice.","title":"Hoffa","r│
+│eleased":1992}                                                        │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"Houston, we have a problem.","title":"Apollo 13","released│
+│":1995}                                                               │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"Don't Breathe. Don't Look Back.","title":"Twister","releas│
+│ed":1996}                                                             │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"At the edge of the world, his journey begins.","title":"Ca│
+│st Away","released":2000}                                             │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"If he's crazy, what does that make you?","title":"One Flew│
+│ Over the Cuckoo's Nest","released":1975}                             │
+├──────────────────────────────────────────────────────────────────────┤
+│{"title":"Something's Gotta Give","released":2003}                    │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"One robot's 200 year journey to become an ordinary man.","│
+│title":"Bicentennial Man","released":1999}                            │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"A stiff drink. A little mascara. A lot of nerve. Who said │
+│they couldn't bring down the Soviet empire.","title":"Charlie Wilson's│
+│ War","released":2007}                                                │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"This Holiday Season... Believe","title":"The Polar Express│
+│","released":2004}                                                    │
+├──────────────────────────────────────────────────────────────────────┤
+│{"tagline":"Once in a lifetime you get a chance to do something differ│
+│ent.","title":"A League of Their Own","released":1992}                │
+└──────────────────────────────────────────────────────────────────────┘

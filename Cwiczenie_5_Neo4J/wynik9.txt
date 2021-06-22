@@ -1,0 +1,33 @@
+╒══════════════════════════════════════════════════════════════════════╤═════════════════════════════════════════╕
+│"movie"                                                               │"person"                                 │
+╞══════════════════════════════════════════════════════════════════════╪═════════════════════════════════════════╡
+│{"tagline":"When patriots become heroes","title":"Captain America: The│{"name":"Chris Evans","born":1981}       │
+│ First Avenger","released":2011}                                      │                                         │
+├──────────────────────────────────────────────────────────────────────┼─────────────────────────────────────────┤
+│{"tagline":"When patriots become heroes","title":"Captain America: The│{"name":"Richard Armitage","born":1971}  │
+│ First Avenger","released":2011}                                      │                                         │
+├──────────────────────────────────────────────────────────────────────┼─────────────────────────────────────────┤
+│{"tagline":"When patriots become heroes","title":"Captain America: The│{"name":"Christopher Markus","born":1970}│
+│ First Avenger","released":2011}                                      │                                         │
+├──────────────────────────────────────────────────────────────────────┼─────────────────────────────────────────┤
+│{"tagline":"When patriots become heroes","title":"Captain America: The│{"name":"Joe Johnston","born":1950}      │
+│ First Avenger","released":2011}                                      │                                         │
+├──────────────────────────────────────────────────────────────────────┼─────────────────────────────────────────┤
+│{"tagline":"When patriots become heroes","title":"Captain America: The│{"name":"Hayley Atwell","born":1982}     │
+│ First Avenger","released":2011}                                      │                                         │
+├──────────────────────────────────────────────────────────────────────┼─────────────────────────────────────────┤
+│{"tagline":"When patriots become heroes","title":"Captain America: The│{"name":"Tommy Lee Jones","born":1946}   │
+│ First Avenger","released":2011}                                      │                                         │
+├──────────────────────────────────────────────────────────────────────┼─────────────────────────────────────────┤
+│{"tagline":"When patriots become heroes","title":"Captain America: The│{"name":"Dominic Cooper","born":1978}    │
+│ First Avenger","released":2011}                                      │                                         │
+├──────────────────────────────────────────────────────────────────────┼─────────────────────────────────────────┤
+│{"tagline":"When patriots become heroes","title":"Captain America: The│{"name":"Kevin Feige","born":1973}       │
+│ First Avenger","released":2011}                                      │                                         │
+├──────────────────────────────────────────────────────────────────────┼─────────────────────────────────────────┤
+│{"tagline":"When patriots become heroes","title":"Captain America: The│{"name":"Hugo Weaving","born":1960}      │
+│ First Avenger","released":2011}                                      │                                         │
+├──────────────────────────────────────────────────────────────────────┼─────────────────────────────────────────┤
+│{"tagline":"When patriots become heroes","title":"Captain America: The│{"name":"Sebastian Stan","born":1982}    │
+│ First Avenger","released":2011}                                      │                                         │
+└──────────────────────────────────────────────────────────────────────┴─────────────────────────────────────────┘

@@ -1,0 +1,134 @@
+﻿[
+  {
+    "actor": {
+"identity": 357,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Keanu Reeves",
+"born": 1964
+      }
+    }
+  },
+  {
+    "actor": {
+"identity": 358,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Carrie-Anne Moss",
+"born": 1967
+      }
+    }
+  },
+  {
+    "actor": {
+"identity": 359,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Laurence Fishburne",
+"born": 1961
+      }
+    }
+  },
+  {
+    "actor": {
+"identity": 463,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Jim Broadbent",
+"born": 1949
+      }
+    }
+  },
+  {
+    "actor": {
+"identity": 462,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Halle Berry",
+"born": 1966
+      }
+    }
+  },
+  {
+    "actor": {
+"identity": 427,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Tom Hanks",
+"born": 1956
+      }
+    }
+  },
+  {
+    "actor": {
+"identity": 474,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Stephen Rea",
+"born": 1946
+      }
+    }
+  },
+  {
+    "actor": {
+"identity": 475,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "John Hurt",
+"born": 1940
+      }
+    }
+  },
+  {
+    "actor": {
+"identity": 473,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Natalie Portman",
+"born": 1981
+      }
+    }
+  },
+  {
+    "actor": {
+"identity": 476,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Ben Miles",
+"born": 1967
+      }
+    }
+  },
+  {
+    "actor": {
+"identity": 364,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Emil Eifrem",
+"born": 1978
+      }
+    }
+  }
+]
