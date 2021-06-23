@@ -1,0 +1,26 @@
+01.
+curl -i -XPOST http://localhost:8098/buckets/s23765/keys/1 -H "Content-Type: application/json" -d '{"imie": "Agnieszka", "nazwisko": "Spencer", "wiek": 21, "wzrost": 163}'
+curl -i -XPOST http://localhost:8098/buckets/s23765/keys/2 -H "Content-Type: application/json" -d '{"imie": "Bartosz", "nazwisko": "Tracz", "wiek": 22, "wzrost": 168}'
+curl -i -XPOST http://localhost:8098/buckets/s23765/keys/3 -H "Content-Type: application/json" -d '{"imie": "Celina", "nazwisko": "Ujanowska", "wiek": 23, "wzrost": 173}'
+curl -i -XPOST http://localhost:8098/buckets/s23765/keys/4 -H "Content-Type: application/json" -d '{"imie": "Damian", "nazwisko": "Wojcieszek", "wiek": 24, "wzrost": 178}'
+curl -i -XPOST http://localhost:8098/buckets/s23765/keys/5 -H "Content-Type: application/json" -d '{"imie": "Ewelina", "nazwisko": "Zielak", "wiek": 25, "wzrost": 183}'
+curl http://localhost:8098/buckets/s23765/keys?keys=true
+02.
+curl -i -XGET http://localhost:8098/buckets/s23765/keys/1
+03.
+curl -i -XPOST http://localhost:8098/buckets/s23765/keys/1 -H "Content-Type: application/json" -d '{"imie": "Agnieszka", "nazwisko": "Spencer", "wiek": 21}'
+04.
+curl -i -XPOST http://localhost:8098/buckets/s23765/keys/1 -H "Content-Type: application/json" -d '{"imie": "Agnieszka", "nazwisko": "Spencer", "wiek": 21, "wzrost": 163, "miasto": "Warszawa"}'
+05.
+curl -i -XPOST http://localhost:8098/buckets/s23765/keys/1 -H "Content-Type: application/json" -d '{"imie": "Agnieszka", "nazwisko": "Spencer", "wiek": 21, "wzrost": 163, "miasto": "Lublin"}'
+06.
+curl -i -XDELETE http://localhost:8098/buckets/s23765/keys/1
+07.
+curl -i -XDELETE http://localhost:8098/buckets/s23765/keys/6
+08.
+curl -i -XPOST http://localhost:8098/buckets/s23765/keys -H "Content-Type: application/json" -d '{"imie": "Filip"}'
+09.
+curl -i -XGET http://localhost:8098/buckets/s23765/keys/KfW2bASOd3ZYVJuMUqCKBGX5TJo
+10.
+curl -i -XDELETE http://localhost:8098/buckets/s23765/keys/KfW2bASOd3ZYVJuMUqCKBGX5TJo
+

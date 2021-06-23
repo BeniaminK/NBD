@@ -1,0 +1,42 @@
+curl -i -XPOST http://localhost:8098/buckets/s23765/keys/1 -H "Content-Type: application/json" -d '{"imie": "Agnieszka", "nazwisko": "Spencer", "wiek": 21, "wzrost": 163}'
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Wed, 23 Jun 2021 03:22:48 GMT
+Content-Type: application/json
+Content-Length: 0
+
+curl -i -XPOST http://localhost:8098/buckets/s23765/keys/2 -H "Content-Type: application/json" -d '{"imie": "Bartosz", "nazwisko": "Tracz", "wiek": 22, "wzrost": 168}'
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Wed, 23 Jun 2021 03:22:48 GMT
+Content-Type: application/json
+Content-Length: 0
+
+curl -i -XPOST http://localhost:8098/buckets/s23765/keys/3 -H "Content-Type: application/json" -d '{"imie": "Celina", "nazwisko": "Ujanowska", "wiek": 23, "wzrost": 173}'
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Wed, 23 Jun 2021 03:22:48 GMT
+Content-Type: application/json
+Content-Length: 0
+
+curl -i -XPOST http://localhost:8098/buckets/s23765/keys/4 -H "Content-Type: application/json" -d '{"imie": "Damian", "nazwisko": "Wojcieszek", "wiek": 24, "wzrost": 178}'
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Wed, 23 Jun 2021 03:22:48 GMT
+Content-Type: application/json
+Content-Length: 0
+
+curl -i -XPOST http://localhost:8098/buckets/s23765/keys/5 -H "Content-Type: application/json" -d '{"imie": "Ewelina", "nazwisko": "Zielak", "wiek": 25, "wzrost": 183}'
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Wed, 23 Jun 2021 03:22:48 GMT
+Content-Type: application/json
+Content-Length: 0
+
+curl http://localhost:8098/buckets/s23765/keys?keys=true
+{"keys":["A30ePUp1qfA5kyhjQSkocHWxGEh","7EDu60Ejmzczi48woNrabMOVv9Y","2pu4Y6V8XrGjkCou9kDUjZ7ObmJ","APuVw31jbA5GzitVwo4ymdaQNO5","3wlqovs4jIAvH6tdFyhmT3O4u73","18MZoPfIDhTKdg1APfplHudSB2Y","2","HQWFW89NzFnW1dQkw62rxI1u1Ur","1","IuTjkjUHqig40t7EjYjt4fLANjw","O9QxZU8CDw7qSZAoF4TVyTcm3Jf","HKsxhOLwZsrMEJA92DIazv5tdpI","one","MrliHq6aZE7ZFydWIyejoSXD4K1","PsCARJ8HHhbDgBrhzKS33TfcDoW","JOvlj4Aayntwm2zse8MIGmBZhVM","three","9AaCCkx4ziNJ8IHNMjTjHaVRicj","5","3","6nemdSMst5LDeG2FyCiEuAzPc5v","1HDIiEKR6t0NdKBJIbJBf8Korfx","8pUPQJiz3VbHeIcJD7N4c869VzI","7xGOVy41Fa51RRk5VpanFZBd5ia","OhqNcDjC4Mn6AYhBU9XHJ62JW8Y","4","3kckzdnkzT4vpeOh2abmnOk0fuK","two"]}

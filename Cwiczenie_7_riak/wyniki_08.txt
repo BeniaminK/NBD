@@ -1,0 +1,9 @@
+curl -i -XPOST http://localhost:8098/buckets/s23765/keys -H "Content-Type: application/json" -d '{"imie": "Filip"}'
+HTTP/1.1 201 Created
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Location: /buckets/s23765/keys/KfW2bASOd3ZYVJuMUqCKBGX5TJo
+Date: Wed, 23 Jun 2021 03:22:48 GMT
+Content-Type: application/json
+Content-Length: 0
+

@@ -1,0 +1,13 @@
+curl -i -XGET http://localhost:8098/buckets/s23765/keys/KfW2bASOd3ZYVJuMUqCKBGX5TJo
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvp/+S+UbA4O6YAZTImMeKwOHqvstviwA
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s23765>; rel="up"
+Last-Modified: Wed, 23 Jun 2021 03:22:48 GMT
+ETag: "2K2avmYqaTxbNQ1wMO05xV"
+Date: Wed, 23 Jun 2021 03:24:14 GMT
+Content-Type: application/json
+Content-Length: 17
+
+{"imie": "Filip"}

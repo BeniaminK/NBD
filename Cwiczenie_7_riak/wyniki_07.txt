@@ -1,0 +1,8 @@
+curl -i -XDELETE http://localhost:8098/buckets/s23765/keys/6
+HTTP/1.1 404 Object Not Found
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Wed, 23 Jun 2021 03:22:48 GMT
+Content-Type: text/plain
+Content-Length: 10
+
+not found
