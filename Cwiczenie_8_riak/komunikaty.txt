@@ -1,0 +1,22 @@
+Stworzenie dokumentu RiakObject.
+    Dokument:{'imie': 'Beniamin', 'nazwisko': 'Kalinowski', 'indeks': 's23765', 'rok_urodzenia': 1986, 'waga': 82}.
+    Klucz:arbitraty_doc_key. Ref:<riak.riak_object.RiakObject object at 0x7fcfd9f43898>. Exists in DB: False
+Umieszczanie dokumentu w bazie.
+    Dokument:{'imie': 'Beniamin', 'nazwisko': 'Kalinowski', 'indeks': 's23765', 'rok_urodzenia': 1986, 'waga': 82}.
+    Klucz:arbitraty_doc_key. Ref:<riak.riak_object.RiakObject object at 0x7fcfd9f43898>. Exists in DB: True
+Pobieranie dokumentu z bazy...
+    Dokument:{'imie': 'Beniamin', 'nazwisko': 'Kalinowski', 'indeks': 's23765', 'rok_urodzenia': 1986, 'waga': 82}.
+    Klucz:arbitraty_doc_key. Ref:<riak.riak_object.RiakObject object at 0x7fcfd9e9bda0>. Exists in DB: True
+Modyfikacja dokumentu...
+Umieszczanie dokumentu w bazie.
+    Dokument:{'imie': 'Beniamin', 'nazwisko': 'Kalinowski', 'indeks': 's23765', 'rok_urodzenia': 1986, 'waga': 80.5}.
+    Klucz:arbitraty_doc_key. Ref:<riak.riak_object.RiakObject object at 0x7fcfd9e9bda0>. Exists in DB: True
+Pobieranie dokumentu z bazy...
+    Dokument:{'imie': 'Beniamin', 'nazwisko': 'Kalinowski', 'indeks': 's23765', 'rok_urodzenia': 1986, 'waga': 80.5}.
+    Klucz:arbitraty_doc_key. Ref:<riak.riak_object.RiakObject object at 0x7fcfd9e9bcc0>. Exists in DB: True
+Usuwanie dokumentu z bazy...
+    Dokument:None.
+    Klucz:arbitraty_doc_key. Ref:<riak.riak_object.RiakObject object at 0x7fcfd9f43dd8>. Exists in DB: False
+Pobieranie dokumentu z bazy...
+    Dokument:None.
+    Klucz:arbitraty_doc_key. Ref:<riak.riak_object.RiakObject object at 0x7fcfd9f43e10>. Exists in DB: False
