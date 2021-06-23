@@ -1,0 +1,202 @@
+﻿[
+  {
+    "A.name": "ORD",
+    "StartingFlightsNum": 48
+  },
+  {
+    "A.name": "DTW",
+    "StartingFlightsNum": 25
+  },
+  {
+    "A.name": "IAH",
+    "StartingFlightsNum": 23
+  },
+  {
+    "A.name": "LAX",
+    "StartingFlightsNum": 22
+  },
+  {
+    "A.name": "DEN",
+    "StartingFlightsNum": 18
+  },
+  {
+    "A.name": "SFO",
+    "StartingFlightsNum": 14
+  },
+  {
+    "A.name": "AZO",
+    "StartingFlightsNum": 13
+  },
+  {
+    "A.name": "IAD",
+    "StartingFlightsNum": 12
+  },
+  {
+    "A.name": "BNA",
+    "StartingFlightsNum": 12
+  },
+  {
+    "A.name": "MSP",
+    "StartingFlightsNum": 9
+  },
+  {
+    "A.name": "MOT",
+    "StartingFlightsNum": 8
+  },
+  {
+    "A.name": "EWR",
+    "StartingFlightsNum": 7
+  },
+  {
+    "A.name": "SLC",
+    "StartingFlightsNum": 5
+  },
+  {
+    "A.name": "HNL",
+    "StartingFlightsNum": 5
+  },
+  {
+    "A.name": "FSD",
+    "StartingFlightsNum": 5
+  },
+  {
+    "A.name": "MCO",
+    "StartingFlightsNum": 4
+  },
+  {
+    "A.name": "PDX",
+    "StartingFlightsNum": 4
+  },
+  {
+    "A.name": "BOS",
+    "StartingFlightsNum": 4
+  },
+  {
+    "A.name": "DFW",
+    "StartingFlightsNum": 4
+  },
+  {
+    "A.name": "SAN",
+    "StartingFlightsNum": 4
+  },
+  {
+    "A.name": "BHM",
+    "StartingFlightsNum": 4
+  },
+  {
+    "A.name": "CVG",
+    "StartingFlightsNum": 4
+  },
+  {
+    "A.name": "ABQ",
+    "StartingFlightsNum": 4
+  },
+  {
+    "A.name": "FAT",
+    "StartingFlightsNum": 4
+  },
+  {
+    "A.name": "DLH",
+    "StartingFlightsNum": 4
+  },
+  {
+    "A.name": "SEA",
+    "StartingFlightsNum": 3
+  },
+  {
+    "A.name": "PHX",
+    "StartingFlightsNum": 3
+  },
+  {
+    "A.name": "SBN",
+    "StartingFlightsNum": 3
+  },
+  {
+    "A.name": "SNA",
+    "StartingFlightsNum": 2
+  },
+  {
+    "A.name": "LAS",
+    "StartingFlightsNum": 2
+  },
+  {
+    "A.name": "ATL",
+    "StartingFlightsNum": 2
+  },
+  {
+    "A.name": "CMH",
+    "StartingFlightsNum": 2
+  },
+  {
+    "A.name": "SJC",
+    "StartingFlightsNum": 2
+  },
+  {
+    "A.name": "LGA",
+    "StartingFlightsNum": 2
+  },
+  {
+    "A.name": "TUS",
+    "StartingFlightsNum": 2
+  },
+  {
+    "A.name": "SAT",
+    "StartingFlightsNum": 1
+  },
+  {
+    "A.name": "FLL",
+    "StartingFlightsNum": 1
+  },
+  {
+    "A.name": "KOA",
+    "StartingFlightsNum": 1
+  },
+  {
+    "A.name": "SMF",
+    "StartingFlightsNum": 1
+  },
+  {
+    "A.name": "RIC",
+    "StartingFlightsNum": 1
+  },
+  {
+    "A.name": "IND",
+    "StartingFlightsNum": 1
+  },
+  {
+    "A.name": "MCI",
+    "StartingFlightsNum": 1
+  },
+  {
+    "A.name": "MSN",
+    "StartingFlightsNum": 1
+  },
+  {
+    "A.name": "BIL",
+    "StartingFlightsNum": 1
+  },
+  {
+    "A.name": "ROC",
+    "StartingFlightsNum": 1
+  },
+  {
+    "A.name": "CLT",
+    "StartingFlightsNum": 1
+  },
+  {
+    "A.name": "DCA",
+    "StartingFlightsNum": 1
+  },
+  {
+    "A.name": "PBI",
+    "StartingFlightsNum": 1
+  },
+  {
+    "A.name": "MIA",
+    "StartingFlightsNum": 1
+  },
+  {
+    "A.name": "MOB",
+    "StartingFlightsNum": 1
+  }
+]

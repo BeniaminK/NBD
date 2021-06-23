@@ -1,0 +1,91 @@
+﻿[
+  {
+    "[n in nodes(p)|n.name]": [
+      "MSN",
+      "ORD",
+      "GRR"
+    ],
+    "TotalCost": 196.5,
+    "p": {
+"start": {
+"identity": 799,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "MSN"
+        }
+      },
+"end": {
+"identity": 846,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "GRR"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 799,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "MSN"
+            }
+          },
+          "relationship": {
+"identity": 4509,
+"start": 799,
+"end": 785,
+"type": "COSTS",
+"properties": {
+"price": 88.5
+            }
+          },
+          "end": {
+"identity": 785,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 785,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          },
+          "relationship": {
+"identity": 4595,
+"start": 785,
+"end": 846,
+"type": "COSTS",
+"properties": {
+"price": 108.0
+            }
+          },
+          "end": {
+"identity": 846,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "GRR"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    }
+  }
+]

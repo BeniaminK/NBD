@@ -1,0 +1,151 @@
+﻿[
+  {
+    "[n in nodes(path) | n.name]": [
+      "LAX",
+      "LAS",
+      "DEN",
+      "ORD",
+      "MIA"
+    ],
+    "weight": 3076.0,
+    "path": {
+"start": {
+"identity": 5,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "LAX"
+        }
+      },
+"end": {
+"identity": 39,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "MIA"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 5,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "LAX"
+            }
+          },
+          "relationship": {
+"identity": 1636,
+"start": 5,
+"end": 25,
+"type": "COSTS",
+"properties": {
+"price": 249
+            }
+          },
+          "end": {
+"identity": 25,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "LAS"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 25,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "LAS"
+            }
+          },
+          "relationship": {
+"identity": 1632,
+"start": 25,
+"end": 17,
+"type": "COSTS",
+"properties": {
+"price": 654
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "DEN"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 17,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "DEN"
+            }
+          },
+          "relationship": {
+"identity": 1562,
+"start": 17,
+"end": 7,
+"type": "COSTS",
+"properties": {
+"price": 926
+            }
+          },
+          "end": {
+"identity": 7,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 7,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          },
+          "relationship": {
+"identity": 1578,
+"start": 7,
+"end": 39,
+"type": "COSTS",
+"properties": {
+"price": 1247
+            }
+          },
+          "end": {
+"identity": 39,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "MIA"
+            }
+          }
+        }
+      ],
+"length": 4.0
+    }
+  }
+]

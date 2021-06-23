@@ -1,0 +1,38 @@
+﻿[
+  {
+    "TotalDistance": 55,
+    "length(p)": 5,
+    "occurence": 12,
+    "Cities_on_path": "Darjeeling, Rimbik, Sirikhola, Rammam, Sabargram, Sandakphu"
+  },
+  {
+    "TotalDistance": 48,
+    "length(p)": 5,
+    "occurence": 72,
+    "Cities_on_path": "Darjeeling, Rimbik, Sirikhola, Rammam, Gurdum, Sandakphu"
+  },
+  {
+    "TotalDistance": 44,
+    "length(p)": 5,
+    "occurence": 27,
+    "Cities_on_path": "Darjeeling, Rimbik, Tumbling, Gairibus, BhikeBhanja, Sandakphu"
+  },
+  {
+    "TotalDistance": 37,
+    "length(p)": 4,
+    "occurence": 24,
+    "Cities_on_path": "Darjeeling, Rimbik, Sirikhola, Gurdum, Sandakphu"
+  },
+  {
+    "TotalDistance": 37,
+    "length(p)": 3,
+    "occurence": 3,
+    "Cities_on_path": "Darjeeling, Rimbik, BhikeBhanja, Sandakphu"
+  },
+  {
+    "TotalDistance": 32,
+    "length(p)": 4,
+    "occurence": 18,
+    "Cities_on_path": "Darjeeling, Tumbling, Gairibus, BhikeBhanja, Sandakphu"
+  }
+]

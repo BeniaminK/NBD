@@ -1,0 +1,140 @@
+** Część 1 – Wycieczki górskie **
+1.
+MATCH p = shortestPath((dar:town{name:"Darjeeling"})-[*..10]->(san:peak{name:"Sandakphu"}))
+RETURN p
+2.
+MATCH p = shortestPath((dar:town{name:"Darjeeling"})-[*..10]->(san:peak{name:"Sandakphu"}))
+WHERE ALL(r in relationships(p) WHERE r.winter = "true")
+RETURN p
+3.
+MATCH p= (dar:town{name:"Darjeeling"})-[*]->(san:peak{name:"Sandakphu"})
+WITH p, REDUCE(mergedString = "", word in nodes(p) | mergedString + word.name + ", ") as JoinedString,
+        REDUCE(mergedString = "", word in relationships(p) | mergedString + type(word) + ", ") as JoinedPath
+RETURN DISTINCT reduce(total = 0, tot IN relationships(p) | total + tot.distance) AS TotalDistance, length(p), count(*) as occurence,
+LEFT(JoinedString, SIZE(JoinedString) - 2) as Cities_on_path
+ORDER BY TotalDistance DESC
+
+MATCH p=((dar:town{name:"Darjeeling"})-[z:twowheeler{summer:"true"}]->(dst))
+RETURN dar, dst
+
+** Część 2 – Połączenia lotnicze **
+4.
+MATCH p = ((Flight)-[:ORIGIN]-(A:Airport))
+RETURN A.name, count(*) as StartingFlightsNum
+ORDER BY StartingFlightsNum DESC
+5.
+// Tworzenie dodatkowej relacji: COSTS pomiędzy lotniskami z minimalnymi cenami przelotów
+MATCH (src)-[:ORIGIN]-(f:Flight)-[:DESTINATION]-(dst)
+WITH src, dst, [(f)<-[:ASSIGN]-(ticket) | ticket.price] as prices
+UNWIND prices as price
+WITH src, dst, min(price) as min_price
+MERGE (src)-[:COSTS{price: min_price}]->(dst)
+
+// Zapytanie zasadnicze
+MATCH f = (:Airport {name: "LAX"}) - [:COSTS*..5]-> (dst:Airport)
+WITH f, dst, reduce(totalPrice = 0, flight IN relationships(f) |  totalPrice + flight.price)  as TotalPrice
+WHERE TotalPrice < 3000
+WITH dst, min(TotalPrice) as MinimalPrice
+Return dst, MinimalPrice
+ORDER BY MinimalPrice ASC
+
+6.
+// Ponieważ z LAX nie można dostać się do DAY, poniższe zapytanie jest zapytaniem testowym LAX-MIA używając apoc
+MATCH path = (from:Airport{name:'LAX'})-[:COSTS*..6]->(to:Airport{name:'MIA'})
+WHERE size(apoc.coll.toSet(NODES(path))) = size(NODES(path))
+RETURN [n in nodes(path) | n.name], LENGTH(path) as length, REDUCE(tc=0, r in relationships(path) | tc + r.price) as TotalCost
+ORDER BY TotalCost ASC;
+
+// Właściwe zapytanie LAX-DAY
+MATCH path = (from:Airport{name:'LAX'})-[:COSTS*..6]->(to:Airport{name:'DAY'})
+WHERE size(apoc.coll.toSet(NODES(path))) = size(NODES(path))
+RETURN [n in nodes(path) | n.name], LENGTH(path) as length, REDUCE(tc=0, r in relationships(path) | tc + r.price) as TotalCost
+ORDER BY TotalCost ASC;
+
+// bez apoc, ale z możliwością powtórzenia lotniska (np. LAX-MIA-LAX-FUN-DAY w przypadku tanich połączeń)
+
+MATCH path = (from:Airport{name:'LAX'})-[:COSTS*..6]->(to:Airport{name:'DAY'})
+RETURN [n in nodes(path) | n.name], LENGTH(path) as length, REDUCE(tc=0, r in relationships(path) | tc + r.price) as TotalCost
+ORDER BY TotalCost ASC;
+
+7.
+// Podobnie jak powyżej - przykład działający dla połączenia LAX-MIA
+MATCH (startNode:Airport {name: 'LAX'})
+OPTIONAL MATCH (endNode:Airport {name: 'MIA'})
+CALL apoc.algo.dijkstra(startNode, endNode, 'COSTS>', 'price')
+YIELD path, weight
+RETURN [n in nodes(path) | n.name], weight, path
+
+// Właściwe zapytanie LAX-DAY
+MATCH (startNode:Airport {name: 'DAY'})
+OPTIONAL MATCH (endNode:Airport {name: 'DAY'})
+CALL apoc.algo.dijkstra(startNode, endNode, 'COSTS>', 'price')
+YIELD path, weight
+RETURN [n in nodes(path) | n.name], weight, path
+
+// bez modułu apoc
+MATCH path = (from:Airport{name:'LAX'})-[:COSTS*..6]->(to:Airport{name:'DAY'})
+RETURN [n in nodes(path) | n.name], LENGTH(path) as length, REDUCE(tc=0, r in relationships(path) | tc + r.price) as TotalCost
+ORDER BY TotalCost ASC
+LIMIT 1;
+
+8. Znajdź najtańsze połączenie z Los Angeles (LAX) do Dayton (DAY) w klasie biznes
+
+// Usunięcie dotychczasowych tymczasowych relacji
+MATCH ()-[r:COSTS]-()
+DELETE r
+
+// Utworzenie nowych relacji zawierających tylko ceny klasy biznes
+MATCH (src)-[:ORIGIN]-(f:Flight)-[:DESTINATION]-(dst)
+WITH src, dst, [(f)<-[:ASSIGN]-(ticket{class: "business"}) | ticket.price] as prices
+UNWIND prices as price
+WITH src, dst, max(price) as min_price
+MERGE (src)-[:COSTS{price: min_price}]->(dst)
+
+// Przykład:
+// Podobnie jak w poprzednich 2 zadaniach - brak połączeń LAX-DAY, dlatego podaję działający przykład dla LAX-MIA
+MATCH (startNode:Airport {name: 'LAX'})
+OPTIONAL MATCH (endNode:Airport {name: 'MIA'})
+CALL apoc.algo.dijkstra(startNode, endNode, 'COSTS>', 'price')
+YIELD path, weight
+RETURN [n in nodes(path) | n.name], weight, path
+
+// Właściwe zapytanie dla LAX-DAY
+MATCH (startNode:Airport {name: 'LAX'})
+OPTIONAL MATCH (endNode:Airport {name: 'DAY'})
+CALL apoc.algo.dijkstra(startNode, endNode, 'COSTS>', 'price')
+YIELD path, weight
+RETURN [n in nodes(path) | n.name], weight, path
+
+// Podobnie jak poprzednio - na wypadek braku modułu apoc
+
+MATCH path = (from:Airport{name:'LAX'})-[:COSTS*..6]->(to:Airport{name:'DAY'})
+RETURN [n in nodes(path) | n.name], LENGTH(path) as length, REDUCE(tc=0, r in relationships(path) | tc + r.price) as TotalCost
+ORDER BY TotalCost ASC
+LIMIT 1;
+
+9.
+MATCH (a)<-[:ORIGIN]-(f:Flight)-[:DESTINATION]->(b)
+UNWIND [a, b] as airport
+WITH DISTINCT airport.name as airport_name, f.airline as Airline
+RETURN Airline, count(*) as Cities_Count
+ORDER BY Cities_Count DESC
+10.
+// Usunięcie istniejących relacji typu COSTS
+MATCH ()-[r:COSTS]-()
+DELETE r
+// Tworzenie dodatkowej relacji: COSTS pomiędzy lotniskami z minimalnymi cenami przelotów
+MATCH (src)-[:ORIGIN]-(f:Flight)-[:DESTINATION]-(dst)
+WITH src, dst, [(f)<-[:ASSIGN]-(ticket) | ticket.price] as prices
+UNWIND prices as price
+WITH src, dst, min(price) as min_price
+MERGE (src)-[:COSTS{price: min_price}]->(dst)
+
+// Zasadnicze zapytanie:
+MATCH p=(a)-[:COSTS*2]->(c)
+WITH reduce(tc=0, r in relationships(p) | tc + r.price) as TotalCost, p
+WHERE a <> c
+RETURN [n in nodes(p)|n.name], TotalCost, p
+ORDER BY TotalCost ASC
+LIMIT 1
+
